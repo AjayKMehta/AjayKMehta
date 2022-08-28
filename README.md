@@ -25,3 +25,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#2](https://github.com/endowdly/PSparklines/issues/2) in [endowdly/PSparklines](https://github.com/endowdly/PSparklines)
+2. 🎉 Merged PR [#169](https://github.com/AjayKMehta/Dappery/pull/169) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+3. 🎉 Merged PR [#21](https://github.com/AjayKMehta/blog/pull/21) in [AjayKMehta/blog](https://github.com/AjayKMehta/blog)
+4. 💪 Opened PR [#21](https://github.com/AjayKMehta/blog/pull/21) in [AjayKMehta/blog](https://github.com/AjayKMehta/blog)
+5. 🎉 Merged PR [#20](https://github.com/AjayKMehta/blog/pull/20) in [AjayKMehta/blog](https://github.com/AjayKMehta/blog)
+<!--END_SECTION:activity-->
