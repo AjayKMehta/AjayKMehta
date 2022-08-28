@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Recent activity
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/endowdly/PSparklines/issues/2) in [endowdly/PSparklines](https://github.com/endowdly/PSparklines)
 2. 🎉 Merged PR [#169](https://github.com/AjayKMehta/Dappery/pull/169) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
