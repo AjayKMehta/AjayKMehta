@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#49](https://github.com/chris-peterson/pwsh-gitlab/issues/49) in [chris-peterson/pwsh-gitlab](https://github.com/chris-peterson/pwsh-gitlab)
-2. 🎉 Merged PR [#170](https://github.com/AjayKMehta/Dappery/pull/170) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-3. 🗣 Commented on [#2](https://github.com/endowdly/PSparklines/issues/2) in [endowdly/PSparklines](https://github.com/endowdly/PSparklines)
-4. 🎉 Merged PR [#172](https://github.com/AjayKMehta/Dappery/pull/172) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-5. 🗣 Commented on [#2](https://github.com/endowdly/PSparklines/issues/2) in [endowdly/PSparklines](https://github.com/endowdly/PSparklines)
+1. 🎉 Merged PR [#176](https://github.com/AjayKMehta/Dappery/pull/176) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+2. 🎉 Merged PR [#175](https://github.com/AjayKMehta/Dappery/pull/175) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+3. 🎉 Merged PR [#173](https://github.com/AjayKMehta/Dappery/pull/173) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+4. 🎉 Merged PR [#174](https://github.com/AjayKMehta/Dappery/pull/174) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+5. ❗️ Opened issue [#49](https://github.com/chris-peterson/pwsh-gitlab/issues/49) in [chris-peterson/pwsh-gitlab](https://github.com/chris-peterson/pwsh-gitlab)
 <!--END_SECTION:activity-->
