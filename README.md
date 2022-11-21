@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/AjayKMehta/builderbuilder/pull/50) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
-2. 🎉 Merged PR [#204](https://github.com/AjayKMehta/Dappery/pull/204) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-3. 🎉 Merged PR [#49](https://github.com/AjayKMehta/builderbuilder/pull/49) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
-4. 🎉 Merged PR [#48](https://github.com/AjayKMehta/builderbuilder/pull/48) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
-5. 🎉 Merged PR [#205](https://github.com/AjayKMehta/Dappery/pull/205) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+1. 💪 Opened PR [#10](https://github.com/schochastics/netUtils/pull/10) in [schochastics/netUtils](https://github.com/schochastics/netUtils)
+2. ❗️ Opened issue [#300](https://github.com/aws/aws-tools-for-powershell/issues/300) in [aws/aws-tools-for-powershell](https://github.com/aws/aws-tools-for-powershell)
+3. 🎉 Merged PR [#50](https://github.com/AjayKMehta/builderbuilder/pull/50) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
+4. 🎉 Merged PR [#204](https://github.com/AjayKMehta/Dappery/pull/204) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+5. 🎉 Merged PR [#49](https://github.com/AjayKMehta/builderbuilder/pull/49) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
 <!--END_SECTION:activity-->
