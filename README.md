@@ -35,12 +35,11 @@ Here are some ideas to get you started:
 
 ### :cloud:
 
-<img alt="aws" src="https://img.shields.io/badge/-00AA00?logo=Amazon-AWS" /><img alt="azure" src="https://img.shields.io/badge/-0230FE?logo=Microsoft-Azure" />
+<a href="https://aws.amazon.com/"><img alt="aws" src="https://img.shields.io/badge/-00AA00?logo=Amazon-AWS" /></a><a href="<https://azure.microsoft.com/"><img alt="azure" src="https://img.shields.io/badge/-0230FE?logo=Microsoft-Azure" /></a>
 
 ### Data
 
 <img alt="snowflake" src="https://img.shields.io/badge/-SnowFlake-lightblue?logo=snowflake" /><img alt="duckdb" src="https://img.shields.io/badge/-DuckDB-green?logo=duckdb" /><img alt="postgres" src="https://img.shields.io/badge/-Postgres-FFDDFF?logo=postgresql" /><img alt="polars" src="https://img.shields.io/badge/-Polars-teal?logo=polars" /><img alt="tidyverse" src="https://img.shields.io/badge/-Tidyverse-FFC204?logo=tidyverse" /><img alt="spark" src="https://img.shields.io/badge/-Spark-0000AE?logo=apache-spark" /><img alt="postman" src="https://img.shields.io/badge/-Jupyter-FDED30?logo=jupyter" />
-
 
 ### Other
 
