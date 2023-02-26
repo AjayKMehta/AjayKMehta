@@ -31,37 +31,20 @@ Here are some ideas to get you started:
 
 ### Languages
 
-<img alt="csharp" src="https://img.shields.io/badge/-purple?logo=csharp" />
-
-<img alt="haskell" src="https://img.shields.io/badge/-darkgreen?logo=haskell" />
-
-<img alt="python" src="https://img.shields.io/badge/-f9e64f?logo=python" />
-<img alt="r" src="https://img.shields.io/badge/-1857a4?logo=R" />
-<img alt="powershell" src="https://img.shields.io/badge/-EEEDEA?logo=Powershell" />
+<img alt="csharp" src="https://img.shields.io/badge/-C%23-purple?logo=csharp" /><img alt="haskell" src="https://img.shields.io/badge/-Haskell-darkgreen?logo=haskell" /><img alt="python" src="https://img.shields.io/badge/-Python-f9e64f?logo=python" /><img alt="r" src="https://img.shields.io/badge/-R-1857a4?logo=R" /><img alt="powershell" src="https://img.shields.io/badge/-PowerShell-EEEDEA?logo=Powershell" /><img alt="powershell" src="https://img.shields.io/badge/-Julia-E1E1EA?logo=Julia" />
 
 ### :cloud:
 
-<img alt="aws" src="https://img.shields.io/badge/-00AA00?logo=Amazon-AWS" />
-<img alt="azure" src="https://img.shields.io/badge/-0230FE?logo=Microsoft-Azure" />
+<img alt="aws" src="https://img.shields.io/badge/-00AA00?logo=Amazon-AWS" /><img alt="azure" src="https://img.shields.io/badge/-0230FE?logo=Microsoft-Azure" />
 
 ### Data
 
-<img alt="snowflake" src="https://img.shields.io/badge/-lightblue?logo=snowflake" />
-<img alt="duckdb" src="https://img.shields.io/badge/-green?logo=duckdb" />
-<img alt="postgres" src="https://img.shields.io/badge/-FFDDFF?logo=postgresql" />
-<img alt="polars" src="https://img.shields.io/badge/-teal?logo=polars" />
-<img alt="tidyverse" src="https://img.shields.io/badge/-FFC204?logo=tidyverse" />
-<img alt="spark" src="https://img.shields.io/badge/-0000AE?logo=apache-spark" />
+<img alt="snowflake" src="https://img.shields.io/badge/-SnowFlake-lightblue?logo=snowflake" /><img alt="duckdb" src="https://img.shields.io/badge/-DuckDB-green?logo=duckdb" /><img alt="postgres" src="https://img.shields.io/badge/-Postgres-FFDDFF?logo=postgresql" /><img alt="polars" src="https://img.shields.io/badge/-Polars-teal?logo=polars" /><img alt="tidyverse" src="https://img.shields.io/badge/-Tidyverse-FFC204?logo=tidyverse" /><img alt="spark" src="https://img.shields.io/badge/-Spark-0000AE?logo=apache-spark" /><img alt="postman" src="https://img.shields.io/badge/-Jupyter-FDED30?logo=jupyter" />
+
 
 ### Other
 
-<img alt="Docker" src="https://img.shields.io/badge/-lightgreen?logo=docker" />
-<img alt="github actions" src="https://img.shields.io/badge/-EEAA00?logo=github-actions" />
-<img alt="git" src="https://img.shields.io/badge/-13BEF9?logo=git" />
-<img alt="github" src="https://img.shields.io/badge/-black?logo=github" />
-<img alt="gitlab" src="https://img.shields.io/badge/-204ECF?logo=gitlab" />
-<img alt="latex" src="https://img.shields.io/badge/-008080?logo=latex" />
-<img alt="postman" src="https://img.shields.io/badge/-FDDDD0?logo=postman" />
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-lightgreen?logo=docker" /><img alt="git" src="https://img.shields.io/badge/-git-13BEF9?logo=git" /><img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github" /><img alt="gitlab" src="https://img.shields.io/badge/-GitLab-204ECF?logo=gitlab" /><img alt="latex" src="https://img.shields.io/badge/-LaTeX-008080?logo=latex" /><img alt="postman" src="https://img.shields.io/badge/-Postman-FDDDD0?logo=postman" />
 
 ## Recent activity
 
