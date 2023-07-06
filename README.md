@@ -49,8 +49,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#159](https://github.com/dfinke/PowerShellAI/issues/159) in [dfinke/PowerShellAI](https://github.com/dfinke/PowerShellAI)
-2. 🗣 Commented on [#159](https://github.com/dfinke/PowerShellAI/issues/159) in [dfinke/PowerShellAI](https://github.com/dfinke/PowerShellAI)
-3. ❌ Closed PR [#268](https://github.com/AjayKMehta/Dappery/pull/268) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-4. ❌ Closed PR [#269](https://github.com/AjayKMehta/Dappery/pull/269) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-5. 🎉 Merged PR [#270](https://github.com/AjayKMehta/Dappery/pull/270) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+2. 🗣 Commented on [#2497](https://github.com/rstudio/rmarkdown/issues/2497) in [rstudio/rmarkdown](https://github.com/rstudio/rmarkdown)
+3. 💪 Opened PR [#164](https://github.com/dfinke/PowerShellAI/pull/164) in [dfinke/PowerShellAI](https://github.com/dfinke/PowerShellAI)
+4. 🗣 Commented on [#159](https://github.com/dfinke/PowerShellAI/issues/159) in [dfinke/PowerShellAI](https://github.com/dfinke/PowerShellAI)
+5. ❌ Closed PR [#22](https://github.com/AjayKMehta/blog/pull/22) in [AjayKMehta/blog](https://github.com/AjayKMehta/blog)
 <!--END_SECTION:activity-->
