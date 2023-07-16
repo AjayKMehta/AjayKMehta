@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#275](https://github.com/AjayKMehta/Dappery/pull/275) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-2. 🎉 Merged PR [#126](https://github.com/AjayKMehta/builderbuilder/pull/126) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
-3. 🎉 Merged PR [#274](https://github.com/AjayKMehta/Dappery/pull/274) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-4. 🗣 Commented on [#159](https://github.com/dfinke/PowerShellAI/issues/159) in [dfinke/PowerShellAI](https://github.com/dfinke/PowerShellAI)
-5. 🗣 Commented on [#2497](https://github.com/rstudio/rmarkdown/issues/2497) in [rstudio/rmarkdown](https://github.com/rstudio/rmarkdown)
+1. ❌ Closed PR [#277](https://github.com/AjayKMehta/Dappery/pull/277) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+2. ❌ Closed PR [#276](https://github.com/AjayKMehta/Dappery/pull/276) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+3. ❌ Closed PR [#125](https://github.com/AjayKMehta/builderbuilder/pull/125) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
+4. 🎉 Merged PR [#275](https://github.com/AjayKMehta/Dappery/pull/275) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+5. 🎉 Merged PR [#126](https://github.com/AjayKMehta/builderbuilder/pull/126) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
 <!--END_SECTION:activity-->
