@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#296](https://github.com/AjayKMehta/Dappery/pull/296) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-2. 🎉 Merged PR [#144](https://github.com/AjayKMehta/builderbuilder/pull/144) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
-3. ❌ Closed PR [#291](https://github.com/AjayKMehta/Dappery/pull/291) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-4. 🎉 Merged PR [#143](https://github.com/AjayKMehta/builderbuilder/pull/143) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
-5. 🎉 Merged PR [#141](https://github.com/AjayKMehta/builderbuilder/pull/141) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
+1. 🎉 Merged PR [#145](https://github.com/AjayKMehta/builderbuilder/pull/145) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
+2. 🎉 Merged PR [#297](https://github.com/AjayKMehta/Dappery/pull/297) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+3. 🗣 Commented on [#2497](https://github.com/rstudio/rmarkdown/issues/2497#issuecomment-1732689470) in [rstudio/rmarkdown](https://github.com/rstudio/rmarkdown)
+4. 🎉 Merged PR [#296](https://github.com/AjayKMehta/Dappery/pull/296) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+5. 🎉 Merged PR [#144](https://github.com/AjayKMehta/builderbuilder/pull/144) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
 <!--END_SECTION:activity-->
