@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#304](https://github.com/AjayKMehta/Dappery/pull/304) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-2. 🎉 Merged PR [#153](https://github.com/AjayKMehta/builderbuilder/pull/153) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
-3. ❌ Closed PR [#302](https://github.com/AjayKMehta/Dappery/pull/302) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-4. ❌ Closed PR [#303](https://github.com/AjayKMehta/Dappery/pull/303) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-5. 🎉 Merged PR [#152](https://github.com/AjayKMehta/builderbuilder/pull/152) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
+1. 🎉 Merged PR [#10](https://github.com/AjayKMehta/SequenceReaderSample/pull/10) in [AjayKMehta/SequenceReaderSample](https://github.com/AjayKMehta/SequenceReaderSample)
+2. 🎉 Merged PR [#304](https://github.com/AjayKMehta/Dappery/pull/304) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+3. 🎉 Merged PR [#153](https://github.com/AjayKMehta/builderbuilder/pull/153) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
+4. ❌ Closed PR [#302](https://github.com/AjayKMehta/Dappery/pull/302) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+5. ❌ Closed PR [#303](https://github.com/AjayKMehta/Dappery/pull/303) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
 <!--END_SECTION:activity-->
