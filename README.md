@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#168](https://github.com/AjayKMehta/builderbuilder/pull/168) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
-2. 🎉 Merged PR [#315](https://github.com/AjayKMehta/Dappery/pull/315) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-3. 🎉 Merged PR [#314](https://github.com/AjayKMehta/Dappery/pull/314) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-4. 🎉 Merged PR [#165](https://github.com/AjayKMehta/builderbuilder/pull/165) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
-5. 🎉 Merged PR [#163](https://github.com/AjayKMehta/builderbuilder/pull/163) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
+1. 🎉 Merged PR [#169](https://github.com/AjayKMehta/builderbuilder/pull/169) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
+2. 💪 Opened PR [#169](https://github.com/AjayKMehta/builderbuilder/pull/169) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
+3. ❌ Closed PR [#1](https://github.com/andrewjsaid/builderbuilder/pull/1) in [andrewjsaid/builderbuilder](https://github.com/andrewjsaid/builderbuilder)
+4. 💪 Opened PR [#1](https://github.com/andrewjsaid/builderbuilder/pull/1) in [andrewjsaid/builderbuilder](https://github.com/andrewjsaid/builderbuilder)
+5. 🎉 Merged PR [#168](https://github.com/AjayKMehta/builderbuilder/pull/168) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
 <!--END_SECTION:activity-->
