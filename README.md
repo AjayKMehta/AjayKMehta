@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### Languages
 
-<img alt="csharp" src="https://img.shields.io/badge/-C%23-purple?logo=csharp" /><img alt="haskell" src="https://img.shields.io/badge/-Haskell-darkgreen?logo=haskell" /><img alt="python" src="https://img.shields.io/badge/-Python-f9e64f?logo=python" /><img alt="r" src="https://img.shields.io/badge/-R-1857a4?logo=R" /><img alt="powershell" src="https://img.shields.io/badge/-PowerShell-EEEDEA?logo=Powershell" /><img alt="powershell" src="https://img.shields.io/badge/-Julia-E1E1EA?logo=Julia" />
+<img alt="csharp" src="https://img.shields.io/badge/-C%23-purple?logo=csharp" /><img alt="haskell" src="https://img.shields.io/badge/-Haskell-darkgreen?logo=haskell" /><img alt="python" src="https://img.shields.io/badge/-Python-f9e64f?logo=python" /><img alt="r" src="https://img.shields.io/badge/-R-1857a4?logo=R" /><img alt="powershell" src="https://img.shields.io/badge/-PowerShell-EEEDEA?logo=Powershell" /><img alt="lua" src="https://img.shields.io/badge/-Lua-aqua?logo=Lua" /><img alt="julia" src="https://img.shields.io/badge/-Julia-E1F0D2?logo=Julia" />
 
 ### :cloud:
 
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ### Other
 
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-lightgreen?logo=docker" /><img alt="git" src="https://img.shields.io/badge/-git-13BEF9?logo=git" /><img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github" /><img alt="gitlab" src="https://img.shields.io/badge/-GitLab-204ECF?logo=gitlab" /><img alt="latex" src="https://img.shields.io/badge/-LaTeX-008080?logo=latex" /><img alt="postman" src="https://img.shields.io/badge/-Postman-FDDDD0?logo=postman" />
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-lightgreen?logo=docker" /><img alt="git" src="https://img.shields.io/badge/-git-13BEF9?logo=git" /><img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github" /><img alt="gitlab" src="https://img.shields.io/badge/-GitLab-204ECF?logo=gitlab" /><img alt="latex" src="https://img.shields.io/badge/-LaTeX-008080?logo=latex" /><img alt="postman" src="https://img.shields.io/badge/-Postman-FDDDD0?logo=postman" /><img alt="neovim" src="https://img.shields.io/badge/-Neovim-00FFAA?logo=neovim" />
 
 ## Recent activity
 
