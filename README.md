@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#349](https://github.com/AjayKMehta/Dappery/pull/349) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-2. 🔒 Closed issue [#347](https://github.com/AjayKMehta/Dappery/issues/347) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-3. 🎉 Merged PR [#348](https://github.com/AjayKMehta/Dappery/pull/348) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-4. 💪 Opened PR [#348](https://github.com/AjayKMehta/Dappery/pull/348) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-5. ❗ Opened issue [#347](https://github.com/AjayKMehta/Dappery/issues/347) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+1. 🎉 Merged PR [#351](https://github.com/AjayKMehta/Dappery/pull/351) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+2. 🎉 Merged PR [#350](https://github.com/AjayKMehta/Dappery/pull/350) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+3. 🎉 Merged PR [#349](https://github.com/AjayKMehta/Dappery/pull/349) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+4. 🔒 Closed issue [#347](https://github.com/AjayKMehta/Dappery/issues/347) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+5. 🎉 Merged PR [#348](https://github.com/AjayKMehta/Dappery/pull/348) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
 <!--END_SECTION:activity-->
