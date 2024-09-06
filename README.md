@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#352](https://github.com/AjayKMehta/Dappery/pull/352) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-2. 🗣 Commented on [#352](https://github.com/AjayKMehta/Dappery/pull/352#issuecomment-2295424496) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-3. 🎉 Merged PR [#351](https://github.com/AjayKMehta/Dappery/pull/351) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-4. 🎉 Merged PR [#350](https://github.com/AjayKMehta/Dappery/pull/350) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-5. 🎉 Merged PR [#349](https://github.com/AjayKMehta/Dappery/pull/349) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+1. 🗣 Commented on [#88](https://github.com/GustavEikaas/easy-dotnet.nvim/issues/88#issuecomment-2331945844) in [GustavEikaas/easy-dotnet.nvim](https://github.com/GustavEikaas/easy-dotnet.nvim)
+2. 🗣 Commented on [#100](https://github.com/GustavEikaas/easy-dotnet.nvim/issues/100#issuecomment-2331940253) in [GustavEikaas/easy-dotnet.nvim](https://github.com/GustavEikaas/easy-dotnet.nvim)
+3. 🗣 Commented on [#100](https://github.com/GustavEikaas/easy-dotnet.nvim/issues/100#issuecomment-2331933248) in [GustavEikaas/easy-dotnet.nvim](https://github.com/GustavEikaas/easy-dotnet.nvim)
+4. 🗣 Commented on [#87](https://github.com/GustavEikaas/easy-dotnet.nvim/issues/87#issuecomment-2329948342) in [GustavEikaas/easy-dotnet.nvim](https://github.com/GustavEikaas/easy-dotnet.nvim)
+5. 🗣 Commented on [#87](https://github.com/GustavEikaas/easy-dotnet.nvim/issues/87#issuecomment-2329920781) in [GustavEikaas/easy-dotnet.nvim](https://github.com/GustavEikaas/easy-dotnet.nvim)
 <!--END_SECTION:activity-->
