@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#88](https://github.com/GustavEikaas/easy-dotnet.nvim/issues/88#issuecomment-2331945844) in [GustavEikaas/easy-dotnet.nvim](https://github.com/GustavEikaas/easy-dotnet.nvim)
-2. 🗣 Commented on [#100](https://github.com/GustavEikaas/easy-dotnet.nvim/issues/100#issuecomment-2331940253) in [GustavEikaas/easy-dotnet.nvim](https://github.com/GustavEikaas/easy-dotnet.nvim)
-3. 🗣 Commented on [#100](https://github.com/GustavEikaas/easy-dotnet.nvim/issues/100#issuecomment-2331933248) in [GustavEikaas/easy-dotnet.nvim](https://github.com/GustavEikaas/easy-dotnet.nvim)
-4. 🗣 Commented on [#87](https://github.com/GustavEikaas/easy-dotnet.nvim/issues/87#issuecomment-2329948342) in [GustavEikaas/easy-dotnet.nvim](https://github.com/GustavEikaas/easy-dotnet.nvim)
-5. 🗣 Commented on [#87](https://github.com/GustavEikaas/easy-dotnet.nvim/issues/87#issuecomment-2329920781) in [GustavEikaas/easy-dotnet.nvim](https://github.com/GustavEikaas/easy-dotnet.nvim)
+1. 🗣 Commented on [#114](https://github.com/GustavEikaas/easy-dotnet.nvim/issues/114#issuecomment-2350844742) in [GustavEikaas/easy-dotnet.nvim](https://github.com/GustavEikaas/easy-dotnet.nvim)
+2. 🗣 Commented on [#114](https://github.com/GustavEikaas/easy-dotnet.nvim/issues/114#issuecomment-2350844327) in [GustavEikaas/easy-dotnet.nvim](https://github.com/GustavEikaas/easy-dotnet.nvim)
+3. 🗣 Commented on [#114](https://github.com/GustavEikaas/easy-dotnet.nvim/issues/114#issuecomment-2350730621) in [GustavEikaas/easy-dotnet.nvim](https://github.com/GustavEikaas/easy-dotnet.nvim)
+4. 🗣 Commented on [#114](https://github.com/GustavEikaas/easy-dotnet.nvim/issues/114#issuecomment-2346774843) in [GustavEikaas/easy-dotnet.nvim](https://github.com/GustavEikaas/easy-dotnet.nvim)
+5. 🗣 Commented on [#88](https://github.com/GustavEikaas/easy-dotnet.nvim/issues/88#issuecomment-2331945844) in [GustavEikaas/easy-dotnet.nvim](https://github.com/GustavEikaas/easy-dotnet.nvim)
 <!--END_SECTION:activity-->
