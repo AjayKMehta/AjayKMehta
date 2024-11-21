@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/AjayKMehta/SequenceReaderSample/pull/11) in [AjayKMehta/SequenceReaderSample](https://github.com/AjayKMehta/SequenceReaderSample)
-2. 🗣 Commented on [#12258](https://github.com/PowerShell/PowerShell/issues/12258#issuecomment-2470725916) in [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
-3. 🎉 Merged PR [#361](https://github.com/AjayKMehta/Dappery/pull/361) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-4. 🎉 Merged PR [#223](https://github.com/AjayKMehta/builderbuilder/pull/223) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
-5. 🎉 Merged PR [#220](https://github.com/AjayKMehta/builderbuilder/pull/220) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
+1. ❌ Closed PR [#373](https://github.com/AjayKMehta/Dappery/pull/373) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+2. 🎉 Merged PR [#372](https://github.com/AjayKMehta/Dappery/pull/372) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+3. 🎉 Merged PR [#370](https://github.com/AjayKMehta/Dappery/pull/370) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+4. 🎉 Merged PR [#371](https://github.com/AjayKMehta/Dappery/pull/371) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+5. ❌ Closed PR [#225](https://github.com/AjayKMehta/builderbuilder/pull/225) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
 <!--END_SECTION:activity-->
