@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2619](https://github.com/Aider-AI/aider/issues/2619#issuecomment-2579123686) in [Aider-AI/aider](https://github.com/Aider-AI/aider)
-2. 🎉 Merged PR [#381](https://github.com/AjayKMehta/Dappery/pull/381) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-3. 🎉 Merged PR [#380](https://github.com/AjayKMehta/Dappery/pull/380) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-4. 🎉 Merged PR [#238](https://github.com/AjayKMehta/builderbuilder/pull/238) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
-5. 🎉 Merged PR [#237](https://github.com/AjayKMehta/builderbuilder/pull/237) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
+1. 🔒 Closed issue [#369](https://github.com/AjayKMehta/Dappery/issues/369) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+2. 🗣 Commented on [#369](https://github.com/AjayKMehta/Dappery/issues/369#issuecomment-2601146493) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+3. 🎉 Merged PR [#242](https://github.com/AjayKMehta/builderbuilder/pull/242) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
+4. 🎉 Merged PR [#244](https://github.com/AjayKMehta/builderbuilder/pull/244) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
+5. 🗣 Commented on [#242](https://github.com/AjayKMehta/builderbuilder/pull/242#issuecomment-2600970267) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
 <!--END_SECTION:activity-->
