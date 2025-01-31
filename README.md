@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#369](https://github.com/AjayKMehta/Dappery/issues/369) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-2. 🗣 Commented on [#369](https://github.com/AjayKMehta/Dappery/issues/369#issuecomment-2601146493) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-3. 🎉 Merged PR [#242](https://github.com/AjayKMehta/builderbuilder/pull/242) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
-4. 🎉 Merged PR [#244](https://github.com/AjayKMehta/builderbuilder/pull/244) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
-5. 🗣 Commented on [#242](https://github.com/AjayKMehta/builderbuilder/pull/242#issuecomment-2600970267) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
+1. 🎉 Merged PR [#245](https://github.com/AjayKMehta/builderbuilder/pull/245) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
+2. 🎉 Merged PR [#246](https://github.com/AjayKMehta/builderbuilder/pull/246) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
+3. ❗ Opened issue [#391](https://github.com/AjayKMehta/Dappery/issues/391) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+4. 🎉 Merged PR [#390](https://github.com/AjayKMehta/Dappery/pull/390) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+5. 💪 Opened PR [#390](https://github.com/AjayKMehta/Dappery/pull/390) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
 <!--END_SECTION:activity-->
