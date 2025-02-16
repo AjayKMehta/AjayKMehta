@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#869](https://github.com/olimorris/codecompanion.nvim/pull/869) in [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim)
-2. 🎉 Merged PR [#393](https://github.com/AjayKMehta/Dappery/pull/393) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-3. 🎉 Merged PR [#247](https://github.com/AjayKMehta/builderbuilder/pull/247) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
-4. 🎉 Merged PR [#392](https://github.com/AjayKMehta/Dappery/pull/392) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-5. 🎉 Merged PR [#245](https://github.com/AjayKMehta/builderbuilder/pull/245) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
+1. 🎉 Merged PR [#395](https://github.com/AjayKMehta/Dappery/pull/395) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+2. 🎉 Merged PR [#13](https://github.com/AjayKMehta/SequenceReaderSample/pull/13) in [AjayKMehta/SequenceReaderSample](https://github.com/AjayKMehta/SequenceReaderSample)
+3. 🎉 Merged PR [#248](https://github.com/AjayKMehta/builderbuilder/pull/248) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
+4. 💪 Opened PR [#869](https://github.com/olimorris/codecompanion.nvim/pull/869) in [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim)
+5. 🎉 Merged PR [#393](https://github.com/AjayKMehta/Dappery/pull/393) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
 <!--END_SECTION:activity-->
