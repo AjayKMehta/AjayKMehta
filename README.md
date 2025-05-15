@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### Languages
 
-<img alt="csharp" src="https://img.shields.io/badge/-C%23-purple?logo=csharp" /><img alt="haskell" src="https://img.shields.io/badge/-Haskell-darkgreen?logo=haskell" /><img alt="python" src="https://img.shields.io/badge/-Python-f9e64f?logo=python" /><img alt="r" src="https://img.shields.io/badge/-R-1857a4?logo=R" /><img alt="powershell" src="https://img.shields.io/badge/-PowerShell-EEEDEA?logo=Powershell" /><img alt="lua" src="https://img.shields.io/badge/-Lua-aqua?logo=Lua" /><img alt="julia" src="https://img.shields.io/badge/-Julia-E1F0D2?logo=Julia" />
+<img alt="csharp" src="https://img.shields.io/badge/-C%23-purple?logo=csharp" /><img alt="haskell" src="https://img.shields.io/badge/-Haskell-darkgreen?logo=haskell" /><img alt="python" src="https://img.shields.io/badge/-Python-f9e64f?logo=python" /><img alt="r" src="https://img.shields.io/badge/-R-1857a4?logo=R" /><img alt="powershell" src="https://img.shields.io/badge/-PowerShell-EEEDEA?logo=Powershell" /><img alt="lua" src="https://img.shields.io/badge/-Lua-aqua?logo=Lua" />
 
 ### :cloud:
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ### Data
 
-<img alt="snowflake" src="https://img.shields.io/badge/-SnowFlake-lightblue?logo=snowflake" /><img alt="duckdb" src="https://img.shields.io/badge/-DuckDB-green?logo=duckdb" /><img alt="postgres" src="https://img.shields.io/badge/-Postgres-FFDDFF?logo=postgresql" /><img alt="polars" src="https://img.shields.io/badge/-Polars-teal?logo=polars" /><img alt="tidyverse" src="https://img.shields.io/badge/-Tidyverse-FFC204?logo=tidyverse" /><img alt="spark" src="https://img.shields.io/badge/-Spark-0000AE?logo=apache-spark" /><img alt="postman" src="https://img.shields.io/badge/-Jupyter-FDED30?logo=jupyter" />
+<img alt="snowflake" src="https://img.shields.io/badge/-SnowFlake-lightblue?logo=snowflake" /><img alt="duckdb" src="https://img.shields.io/badge/-DuckDB-green?logo=duckdb" /><img alt="postgres" src="https://img.shields.io/badge/-Postgres-FFDDFF?logo=postgresql" /><img alt="polars" src="https://img.shields.io/badge/-Polars-teal?logo=polars" /><img alt="Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=Apache%20Airflow" /><img alt="tidyverse" src="https://img.shields.io/badge/-Tidyverse-FFC204?logo=tidyverse" /><img alt="spark" src="https://img.shields.io/badge/-Spark-0000AE?logo=apache-spark" /><img alt="postman" src="https://img.shields.io/badge/-Jupyter-FDED30?logo=jupyter" />
 
 ### Other
 
