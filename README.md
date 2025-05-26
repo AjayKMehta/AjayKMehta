@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#265](https://github.com/AjayKMehta/builderbuilder/issues/265) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
-2. 🎉 Merged PR [#264](https://github.com/AjayKMehta/builderbuilder/pull/264) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
-3. 🎉 Merged PR [#414](https://github.com/AjayKMehta/Dappery/pull/414) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-4. 🎉 Merged PR [#3](https://github.com/AjayKMehta/template-dotnet/pull/3) in [AjayKMehta/template-dotnet](https://github.com/AjayKMehta/template-dotnet)
-5. 🗣 Commented on [#12258](https://github.com/PowerShell/PowerShell/issues/12258#issuecomment-2870035461) in [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+1. 🗣 Commented on [#267](https://github.com/AjayKMehta/builderbuilder/pull/267#issuecomment-2907999369) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
+2. 🗣 Commented on [#416](https://github.com/AjayKMehta/Dappery/pull/416#issuecomment-2907996420) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+3. 🎉 Merged PR [#266](https://github.com/AjayKMehta/builderbuilder/pull/266) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
+4. 🎉 Merged PR [#415](https://github.com/AjayKMehta/Dappery/pull/415) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+5. 🗣 Commented on [#362](https://github.com/GustavEikaas/easy-dotnet.nvim/issues/362#issuecomment-2901851363) in [GustavEikaas/easy-dotnet.nvim](https://github.com/GustavEikaas/easy-dotnet.nvim)
 <!--END_SECTION:activity-->
