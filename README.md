@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/AjayKMehta/dotfiles/issues/1) in [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles)
-2. 🗣 Commented on [#267](https://github.com/AjayKMehta/builderbuilder/pull/267#issuecomment-2907999369) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
-3. 🗣 Commented on [#416](https://github.com/AjayKMehta/Dappery/pull/416#issuecomment-2907996420) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-4. 🎉 Merged PR [#266](https://github.com/AjayKMehta/builderbuilder/pull/266) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
-5. 🎉 Merged PR [#415](https://github.com/AjayKMehta/Dappery/pull/415) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+1. 🎉 Merged PR [#16](https://github.com/AjayKMehta/SequenceReaderSample/pull/16) in [AjayKMehta/SequenceReaderSample](https://github.com/AjayKMehta/SequenceReaderSample)
+2. 🗣 Commented on [#6496](https://github.com/JanDeDobbeleer/oh-my-posh/issues/6496#issuecomment-2927788678) in [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
+3. 🗣 Commented on [#6496](https://github.com/JanDeDobbeleer/oh-my-posh/issues/6496#issuecomment-2927753512) in [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
+4. 🗣 Commented on [#6496](https://github.com/JanDeDobbeleer/oh-my-posh/issues/6496#issuecomment-2927747286) in [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
+5. ❗ Opened issue [#6496](https://github.com/JanDeDobbeleer/oh-my-posh/issues/6496) in [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
 <!--END_SECTION:activity-->
