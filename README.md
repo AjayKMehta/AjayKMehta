@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#428](https://github.com/AjayKMehta/Dappery/pull/428) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-2. 🎉 Merged PR [#18](https://github.com/AjayKMehta/SequenceReaderSample/pull/18) in [AjayKMehta/SequenceReaderSample](https://github.com/AjayKMehta/SequenceReaderSample)
-3. 🗣 Commented on [#250209](https://github.com/microsoft/vscode/issues/250209#issuecomment-3050735282) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 🎉 Merged PR [#427](https://github.com/AjayKMehta/Dappery/pull/427) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-5. 🎉 Merged PR [#426](https://github.com/AjayKMehta/Dappery/pull/426) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+1. ❌ Closed PR [#429](https://github.com/AjayKMehta/Dappery/pull/429) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+2. 🎉 Merged PR [#428](https://github.com/AjayKMehta/Dappery/pull/428) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+3. 🎉 Merged PR [#18](https://github.com/AjayKMehta/SequenceReaderSample/pull/18) in [AjayKMehta/SequenceReaderSample](https://github.com/AjayKMehta/SequenceReaderSample)
+4. 🗣 Commented on [#250209](https://github.com/microsoft/vscode/issues/250209#issuecomment-3050735282) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 🎉 Merged PR [#427](https://github.com/AjayKMehta/Dappery/pull/427) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
 <!--END_SECTION:activity-->
