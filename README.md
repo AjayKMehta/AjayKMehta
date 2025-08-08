@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ### :cloud:
 
-<a href="https://aws.amazon.com/"><img alt="aws" src="https://img.shields.io/badge/-00AA00?logo=amazonwebservices" /></a><a href="https://azure.microsoft.com/"><img alt="azure" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure" /></a>
+<a href="https://aws.amazon.com/"><i alt ="aws" class="fab fa-aws" style="color:black"></i></a> <a href="https://azure.microsoft.com/"><img alt="azure" src="https://img.shields.io/badge/-Azure-3CCBF4" /></a>
 
 ### Data
 
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ### Other
 
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-lightgreen?logo=docker" /><img alt="git" src="https://img.shields.io/badge/-git-13BEF9?logo=git" /><img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github" /><img alt="gitlab" src="https://img.shields.io/badge/-GitLab-204ECF?logo=gitlab" /><img alt="latex" src="https://img.shields.io/badge/-LaTeX-008080?logo=latex" /><img alt="postman" src="https://img.shields.io/badge/-Postman-FDDDD0?logo=postman" /><img alt="neovim" src="https://img.shields.io/badge/-Neovim-00FFAA?logo=neovim" />
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-lightgreen?logo=docker" /><img alt="git" src="https://img.shields.io/badge/-git-13BEF9?logo=git" /><img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github" /><img alt="gitlab" src="https://img.shields.io/badge/-GitLab-204ECF?logo=gitlab" /><img alt="neovim" src="https://img.shields.io/badge/-Neovim-00FFAA?logo=neovim" /><img alt="latex" src="https://img.shields.io/badge/-LaTeX-008080?logo=latex" />
 
 ## Recent activity
 
