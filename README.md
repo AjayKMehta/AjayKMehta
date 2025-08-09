@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ### :cloud:
 
-<a href="https://aws.amazon.com/"><i alt ="aws" class="fab fa-aws" style="color:black"></i></a> <a href="https://azure.microsoft.com/"><img alt="azure" src="https://img.shields.io/badge/-Azure-3CCBF4" /></a>
+<a href="https://aws.amazon.com/"><img alt="azure" src="https://img.shields.io/badge/-AWS-99BF14"/></a><a href="https://azure.microsoft.com/"><img alt="azure" src="https://img.shields.io/badge/-Azure-3CCBF4" /></a>
 
 ### Data
 
