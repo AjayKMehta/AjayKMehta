@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#435](https://github.com/AjayKMehta/Dappery/pull/435) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-2. 🎉 Merged PR [#278](https://github.com/AjayKMehta/builderbuilder/pull/278) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
-3. 🎉 Merged PR [#433](https://github.com/AjayKMehta/Dappery/pull/433) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-4. 🎉 Merged PR [#431](https://github.com/AjayKMehta/Dappery/pull/431) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-5. 🎉 Merged PR [#432](https://github.com/AjayKMehta/Dappery/pull/432) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+1. ❗ Opened issue [#3](https://github.com/AjayKMehta/quarto-blog/issues/3) in [AjayKMehta/quarto-blog](https://github.com/AjayKMehta/quarto-blog)
+2. 🎉 Merged PR [#2](https://github.com/AjayKMehta/quarto-blog/pull/2) in [AjayKMehta/quarto-blog](https://github.com/AjayKMehta/quarto-blog)
+3. 💪 Opened PR [#2](https://github.com/AjayKMehta/quarto-blog/pull/2) in [AjayKMehta/quarto-blog](https://github.com/AjayKMehta/quarto-blog)
+4. 🎉 Merged PR [#1](https://github.com/AjayKMehta/quarto-blog/pull/1) in [AjayKMehta/quarto-blog](https://github.com/AjayKMehta/quarto-blog)
+5. 💪 Opened PR [#1](https://github.com/AjayKMehta/quarto-blog/pull/1) in [AjayKMehta/quarto-blog](https://github.com/AjayKMehta/quarto-blog)
 <!--END_SECTION:activity-->
