@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#281](https://github.com/AjayKMehta/builderbuilder/pull/281) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
-2. 🎉 Merged PR [#438](https://github.com/AjayKMehta/Dappery/pull/438) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-3. 🎉 Merged PR [#437](https://github.com/AjayKMehta/Dappery/pull/437) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-4. 🎉 Merged PR [#436](https://github.com/AjayKMehta/Dappery/pull/436) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-5. 🔒 Closed issue [#3](https://github.com/AjayKMehta/quarto-blog/issues/3) in [AjayKMehta/quarto-blog](https://github.com/AjayKMehta/quarto-blog)
+1. 🎉 Merged PR [#284](https://github.com/AjayKMehta/builderbuilder/pull/284) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
+2. 🎉 Merged PR [#282](https://github.com/AjayKMehta/builderbuilder/pull/282) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
+3. 🎉 Merged PR [#10](https://github.com/AjayKMehta/template-dotnet/pull/10) in [AjayKMehta/template-dotnet](https://github.com/AjayKMehta/template-dotnet)
+4. 🎉 Merged PR [#11](https://github.com/AjayKMehta/template-dotnet/pull/11) in [AjayKMehta/template-dotnet](https://github.com/AjayKMehta/template-dotnet)
+5. 🎉 Merged PR [#12](https://github.com/AjayKMehta/template-dotnet/pull/12) in [AjayKMehta/template-dotnet](https://github.com/AjayKMehta/template-dotnet)
 <!--END_SECTION:activity-->
