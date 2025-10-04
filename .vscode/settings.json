@@ -1,4 +1,6 @@
 {
+    "explorer.excludeGitIgnore": true,
+    "peacock.color": "#5edcff",
     "workbench.colorCustomizations": {
         "activityBar.activeBackground": "#91e7ff",
         "activityBar.background": "#91e7ff",
@@ -26,6 +28,5 @@
         "titleBar.border": "#5edcff",
         "titleBar.inactiveBackground": "#5edcff99",
         "titleBar.inactiveForeground": "#15202b99"
-    },
-    "peacock.color": "#5edcff"
+    }
 }
