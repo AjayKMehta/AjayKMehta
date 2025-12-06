@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#459](undefined) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-2. 🗣 Commented on [#459](https://github.com/AjayKMehta/Dappery/pull/459#issuecomment-3592768736) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-3. ❌ Reopened PR [#457](undefined) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-4. 🗣 Commented on [#450](https://github.com/AjayKMehta/Dappery/issues/450#issuecomment-3555684023) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
-5. 🔒 Closed issue [#450](https://github.com/AjayKMehta/Dappery/issues/450) in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery)
+1. ❌ Unassigned PR [#5](undefined) in [AjayKMehta/quarto-blog](https://github.com/AjayKMehta/quarto-blog)
+2. ❌ Assigned PR [#5](undefined) in [AjayKMehta/quarto-blog](https://github.com/AjayKMehta/quarto-blog)
+3. ❌ Merged PR [#305](undefined) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
+4. ❌ Labeled PR [#305](undefined) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
+5. ❌ Labeled PR [#305](undefined) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
 <!--END_SECTION:activity-->
