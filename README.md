@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <img alt="csharp" src="https://img.shields.io/badge/-C%23-purple?logo=csharp" /><img alt="haskell" src="https://img.shields.io/badge/-Haskell-darkgreen?logo=haskell" /><img alt="python" src="https://img.shields.io/badge/-Python-f9e64f?logo=python" /><img alt="r" src="https://img.shields.io/badge/-R-1857a4?logo=R" /><img alt="powershell" src="https://img.shields.io/badge/-PowerShell-EEEDEA?logo=Powershell" /><img alt="lua" src="https://img.shields.io/badge/-Lua-aqua?logo=Lua" />
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayKMehta&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark&hide_border=true)]
+<!--[![](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayKMehta&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark&hide_border=true)]-->
 
 ### :cloud:
 
