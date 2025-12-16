@@ -56,9 +56,9 @@ Here are some ideas to get you started:
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. ❌ Unassigned PR [#5](undefined) in [AjayKMehta/quarto-blog](https://github.com/AjayKMehta/quarto-blog)
-2. ❌ Assigned PR [#5](undefined) in [AjayKMehta/quarto-blog](https://github.com/AjayKMehta/quarto-blog)
-3. ❌ Merged PR [#305](undefined) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
-4. ❌ Labeled PR [#305](undefined) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
+1. ❗ Opened issue [#7129](https://github.com/dotnet/extensions/issues/7129) in [dotnet/extensions](https://github.com/dotnet/extensions)
+2. ❌ Unassigned PR [#5](undefined) in [AjayKMehta/quarto-blog](https://github.com/AjayKMehta/quarto-blog)
+3. ❌ Assigned PR [#5](undefined) in [AjayKMehta/quarto-blog](https://github.com/AjayKMehta/quarto-blog)
+4. ❌ Merged PR [#305](undefined) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
 5. ❌ Labeled PR [#305](undefined) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
 <!--END_SECTION:activity-->
