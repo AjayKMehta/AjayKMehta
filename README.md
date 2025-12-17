@@ -7,7 +7,9 @@
 
 ## Hi there 👋, I'm Ajay.
 
-![Top Langs](https://raw.githubusercontent.com/AjayKMehta/AjayKMehta/master/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://raw.githubusercontent.com/AjayKMehta/AjayKMehta/master/profile-summary-card-output/algolia/0-profile-details.svg)](<https://github.com/vn7n24fzkq/github-profile-summary-cards>)
+
+![](https://raw.githubusercontent.com/AjayKMehta/AjayKMehta/master/profile-summary-card-output/algolia/3-stats.svg)
 
 <!--
 **AjayKMehta/AjayKMehta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
