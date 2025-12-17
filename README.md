@@ -7,9 +7,34 @@
 
 ## Hi there 👋, I'm Ajay.
 
-![](https://raw.githubusercontent.com/AjayKMehta/AjayKMehta/master/profile-summary-card-output/algolia/0-profile-details.svg)](<https://github.com/vn7n24fzkq/github-profile-summary-cards>)
+<picture>
+  <source
+    srcset="https://raw.githubusercontent.com/AjayKMehta/AjayKMehta/master/profile-summary-card-output/algolia/0-profile-details.svg"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://raw.githubusercontent.com/AjayKMehta/AjayKMehta/master/profile-summary-card-output/github/0-profile-details.svg.svg"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://raw.githubusercontent.com/AjayKMehta/AjayKMehta/master/profile-summary-card-output/github/0-profile-details.svg" />
+</picture>
 
-![](https://raw.githubusercontent.com/AjayKMehta/AjayKMehta/master/profile-summary-card-output/algolia/3-stats.svg)
+
+<--[![](https://raw.githubusercontent.com/AjayKMehta/AjayKMehta/master/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)-->
+
+<-- ![](https://raw.githubusercontent.com/AjayKMehta/AjayKMehta/master/profile-summary-card-output/algolia/3-stats.svg) -->
+
+<picture>
+  <source
+    srcset="https://github.com/AjayKMehta/AjayKMehta/raw/grs/stats-dark.svg"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github.com/AjayKMehta/AjayKMehta/raw/grs/stats-light.svg"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github.com/AjayKMehta/AjayKMehta/raw/grs/stats-light.svg" />
+</picture>
 
 <!--
 **AjayKMehta/AjayKMehta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
