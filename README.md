@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 <p align="left">
     <img alt="github stats" height="150px" src="https://raw.githubusercontent.com/AjayKMehta/AjayKMehta/master/profile-summary-card-output/moonlight/1-repos-per-language.svg" />
-    <img alt="github stats" height="150px" src="https://raw.githubusercontent.com/AjayKMehta/AjayKMehta/master/profile-summary-card-output/moonlight/2-most-commit-language.svg" />
+    <!--<img alt="github stats" height="150px" src="https://raw.githubusercontent.com/AjayKMehta/AjayKMehta/master/profile-summary-card-output/moonlight/2-most-commit-language.svg" />-->
 </p>
 
 ### :cloud:
