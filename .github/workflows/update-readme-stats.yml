@@ -19,7 +19,7 @@ jobs:
         id: generate
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&include_all_commits=true&number_format=long&show=discussions_started,prs_merged&hide_border=true&theme=${{ matrix.theme }}
+          options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&include_all_commits=true&number_format=long&hide_title=true&hide_rank=true&show=discussions_started,prs_merged&hide_border=true&theme=${{ matrix.theme }}
           path: grs/stats-${{ matrix.theme }}.svg
       - name: Upload stats-${{ matrix.theme }}
         uses: actions/upload-artifact@v4
@@ -48,6 +48,9 @@ jobs:
           name: langs-${{ matrix.theme }}
           path: grs
   push:
+    strategy:
+      matrix:
+        artifact: [stats-dark, stats-light, langs-dark, langs-light]
     permissions: write-all
     runs-on: ubuntu-latest
     name: Push
@@ -55,19 +58,7 @@ jobs:
     steps:
       - uses: actions/download-artifact@v4
         with:
-          name: stats-dark
-          path: grs
-      - uses: actions/download-artifact@v4
-        with:
-          name: stats-light
-          path: grs
-      - uses: actions/download-artifact@v4
-        with:
-          name: langs-dark
-          path: grs
-      - uses: actions/download-artifact@v4
-        with:
-          name: langs-light
+          name: ${{ matrix.artifact }}
           path: grs
       - name: Push
         uses: crazy-max/ghaction-github-pages@v4
