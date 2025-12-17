@@ -19,7 +19,7 @@ jobs:
         id: generate
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&include_all_commits=true&number_format=long&hide_title=true&show=discussions_started&hide_border=true&disable_animations=true&hide_rank=true&theme=${{ matrix.theme }}
+          options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&include_all_commits=true&number_format=long&show=discussions_started,prs_merged&hide_border=true&theme=${{ matrix.theme }}
           path: grs/stats-${{ matrix.theme }}.svg
       - name: Upload stats-${{ matrix.theme }}
         uses: actions/upload-artifact@v4
@@ -39,7 +39,7 @@ jobs:
         uses: UlyssesZh/grs-action@master
         id: generate
         with:
-          options: username=${{ github.repository_owner }}&layout=compact&hide_title=true&hide=tex,html&langs_count=16&hide_border=true&disable_animations=true&theme=${{ matrix.theme }}
+          options: username=${{ github.repository_owner }}&layout=donut&hide=tex,html,javascript&langs_count=20&hide_border=true&disable_animations=true&theme=${{ matrix.theme }}
           path: grs/langs-${{ matrix.theme }}.svg
           card: langs
       - name: Upload langs-${{ matrix.theme }}
@@ -75,4 +75,4 @@ jobs:
           target_branch: grs
           build_dir: grs
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.ACTION_TOKEN }}
