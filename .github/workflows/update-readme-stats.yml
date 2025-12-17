@@ -39,7 +39,7 @@ jobs:
         uses: UlyssesZh/grs-action@master
         id: generate
         with:
-          options: username=${{ github.repository_owner }}&layout=donut&hide=tex,html,javascript&langs_count=20&hide_border=true&disable_animations=true&theme=${{ matrix.theme }}
+          options: username=${{ github.repository_owner }}&layout=donut&langs_count=20&hide_border=true&disable_animations=true&theme=${{ matrix.theme }}
           path: grs/langs-${{ matrix.theme }}.svg
           card: langs
       - name: Upload langs-${{ matrix.theme }}
