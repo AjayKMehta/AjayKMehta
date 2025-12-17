@@ -7,22 +7,7 @@
 
 ## Hi there 👋, I'm Ajay.
 
-<picture>
-  <source
-    srcset="https://raw.githubusercontent.com/AjayKMehta/AjayKMehta/master/profile-summary-card-output/algolia/0-profile-details.svg"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://raw.githubusercontent.com/AjayKMehta/AjayKMehta/master/profile-summary-card-output/github/0-profile-details.svg.svg"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://raw.githubusercontent.com/AjayKMehta/AjayKMehta/master/profile-summary-card-output/github/0-profile-details.svg" />
-</picture>
-
-
-<--[![](https://raw.githubusercontent.com/AjayKMehta/AjayKMehta/master/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)-->
-
-<-- ![](https://raw.githubusercontent.com/AjayKMehta/AjayKMehta/master/profile-summary-card-output/algolia/3-stats.svg) -->
+[![](https://raw.githubusercontent.com/AjayKMehta/AjayKMehta/master/profile-summary-card-output/moonlight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <picture>
   <source
@@ -55,7 +40,6 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AjayKMehta&theme=nightowl)](https://git.io/streak-stats)
 
-
 ## Skills and interests
 
 ### Languages
@@ -63,8 +47,8 @@ Here are some ideas to get you started:
 <img alt="csharp" src="https://img.shields.io/badge/-C%23-purple?logo=csharp" /><img alt="haskell" src="https://img.shields.io/badge/-Haskell-darkgreen?logo=haskell" /><img alt="python" src="https://img.shields.io/badge/-Python-f9e64f?logo=python" /><img alt="r" src="https://img.shields.io/badge/-R-1857a4?logo=R" /><img alt="powershell" src="https://img.shields.io/badge/-PowerShell-EEEDEA?logo=Powershell" /><img alt="lua" src="https://img.shields.io/badge/-Lua-aqua?logo=Lua" />
 
 <p align="left">
-    <img alt="github stats" height="150px" src="https://raw.githubusercontent.com/AjayKMehta/AjayKMehta/master/profile-summary-card-output/algolia/1-repos-per-language.svg" />
-    <img alt="github stats" height="150px" src="https://raw.githubusercontent.com/AjayKMehta/AjayKMehta/master/profile-summary-card-output/algolia/2-most-commit-language.svg" />
+    <img alt="github stats" height="150px" src="https://raw.githubusercontent.com/AjayKMehta/AjayKMehta/master/profile-summary-card-output/moonlight/1-repos-per-language.svg" />
+    <img alt="github stats" height="150px" src="https://raw.githubusercontent.com/AjayKMehta/AjayKMehta/master/profile-summary-card-output/moonlight/2-most-commit-language.svg" />
     <!-- <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayKMehta&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark&hide_border=true" /> -->
 </p>
 
