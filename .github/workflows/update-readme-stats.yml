@@ -47,11 +47,13 @@ jobs:
         with:
           name: langs-${{ matrix.theme }}
           path: grs
-  push:
+  download-images:
     strategy:
       matrix:
         artifact: [stats-dark, stats-light, langs-dark, langs-light]
-    permissions: write-all
+    permissions:
+        contents:
+            write
     runs-on: ubuntu-latest
     name: Push
     needs: [generate-stats, generate-langs]
@@ -60,6 +62,12 @@ jobs:
         with:
           name: ${{ matrix.artifact }}
           path: grs
+  push-images:
+    permissions:
+        contents: write
+    runs-on: ubuntu-latest
+    name: Push images
+    steps:
       - name: Push
         uses: crazy-max/ghaction-github-pages@v4
         with:
