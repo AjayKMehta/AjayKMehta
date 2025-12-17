@@ -47,27 +47,29 @@ jobs:
         with:
           name: langs-${{ matrix.theme }}
           path: grs
-  download-images:
-    strategy:
-      matrix:
-        artifact: [stats-dark, stats-light, langs-dark, langs-light]
+  push:
     permissions:
-        contents:
-            write
+        contents: write
     runs-on: ubuntu-latest
     name: Push
     needs: [generate-stats, generate-langs]
     steps:
       - uses: actions/download-artifact@v4
         with:
-          name: ${{ matrix.artifact }}
+          name: stats-dark
           path: grs
-  push-images:
-    permissions:
-        contents: write
-    runs-on: ubuntu-latest
-    name: Push images
-    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: stats-light
+          path: grs
+      - uses: actions/download-artifact@v4
+        with:
+          name: langs-dark
+          path: grs
+      - uses: actions/download-artifact@v4
+        with:
+          name: langs-light
+          path: grs
       - name: Push
         uses: crazy-max/ghaction-github-pages@v4
         with:
