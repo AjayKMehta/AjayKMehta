@@ -1,8 +1,8 @@
-name: Update README
+name: Update README activity
 
 on:
   schedule:
-    - cron: '0 0 1/5 * *'
+    - cron: '0 0 1/2 * *'
   workflow_dispatch:
 
 jobs:
@@ -11,7 +11,7 @@ jobs:
     name: Update this repo's README with recent activity
     permissions:
       contents: write
-      
+
     steps:
       - uses: actions/checkout@v4.2.2
       - uses: jamesgeorge007/github-activity-readme@master

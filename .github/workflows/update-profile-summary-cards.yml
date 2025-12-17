@@ -1,9 +1,9 @@
 # Based on https://github.com/vn7n24fzkq/github-profile-summary-cards-example/blob/master/.github/workflows/profile-summary-cards.yml
-name: GitHub-Profile-Summary-Cards
+name: Update GitHub profile summary cards
 
 on:
   schedule: # execute every 24 hours
-    - cron: "0 10 * * *"
+    - cron: '0 10 1/2 * *'
   workflow_dispatch:
 
 jobs:
