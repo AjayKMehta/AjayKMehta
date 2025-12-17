@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 ### Data
 
-<img alt="snowflake" src="https://img.shields.io/badge/-SnowFlake-lightblue?logo=snowflake" /><img alt="duckdb" src="https://img.shields.io/badge/-DuckDB-green?logo=duckdb" /><img alt="postgres" src="https://img.shields.io/badge/-Postgres-FFDDFF?logo=postgresql" /><img alt="polars" src="https://img.shields.io/badge/-Polars-teal?logo=polars" /><img alt="Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=Apache%20Airflow" /><img alt="tidyverse" src="https://img.shields.io/badge/-Tidyverse-FFC204?logo=tidyverse" /><img alt="spark" src="https://img.shields.io/badge/-Spark-0000AE?logo=apache-spark" /><img alt="postman" src="https://img.shields.io/badge/-Jupyter-FDED30?logo=jupyter" />
+<img alt="snowflake" src="https://img.shields.io/badge/-SnowFlake-lightblue?logo=snowflake" /><img alt="duckdb" src="https://img.shields.io/badge/-DuckDB-green?logo=duckdb" /><img alt="postgres" src="https://img.shields.io/badge/-Postgres-FFDDFF?logo=postgresql" /><img alt="polars" src="https://img.shields.io/badge/-polars-teal?logo=polars" /><img alt="Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=Apache%20Airflow" /><img alt="tidyverse" src="https://img.shields.io/badge/-Tidyverse-FFC204?logo=tidyverse" /><img alt="spark" src="https://img.shields.io/badge/-Spark-0000AE?logo=apache-spark" /><img alt="postman" src="https://img.shields.io/badge/-Jupyter-FDED30?logo=jupyter" />
 
 ### Other
 
