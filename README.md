@@ -66,9 +66,9 @@ Here are some ideas to get you started:
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7129](https://github.com/dotnet/extensions/issues/7129) in [dotnet/extensions](https://github.com/dotnet/extensions)
-2. ❌ Unassigned PR [#5](undefined) in [AjayKMehta/quarto-blog](https://github.com/AjayKMehta/quarto-blog)
-3. ❌ Assigned PR [#5](undefined) in [AjayKMehta/quarto-blog](https://github.com/AjayKMehta/quarto-blog)
-4. ❌ Merged PR [#305](undefined) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
-5. ❌ Labeled PR [#305](undefined) in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder)
+1. 🗣 Commented on [#12346](https://github.com/cli/cli/issues/12346#issuecomment-3678105646) in [cli/cli](https://github.com/cli/cli)
+2. 🗣 Commented on [#12346](https://github.com/cli/cli/issues/12346#issuecomment-3678052023) in [cli/cli](https://github.com/cli/cli)
+3. 🗣 Commented on [#12345](https://github.com/cli/cli/issues/12345#issuecomment-3678047475) in [cli/cli](https://github.com/cli/cli)
+4.  Labeled issue [#12346](https://github.com/cli/cli/issues/12346) in [cli/cli](https://github.com/cli/cli)
+5. ❗ Opened issue [#12346](https://github.com/cli/cli/issues/12346) in [cli/cli](https://github.com/cli/cli)
 <!--END_SECTION:activity-->
