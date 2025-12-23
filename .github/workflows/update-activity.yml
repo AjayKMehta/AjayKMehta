@@ -16,7 +16,7 @@ jobs:
         uses: TheDanniCraft/activity-log@v1
         with:
           GITHUB_USERNAME: ${{ github.actor }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.ACTION_TOKEN }}
           EVENT_LIMIT: 15
           HIDE_DETAILS_ON_PRIVATE_REPOS: true
           EVENT_EMOJI_MAP: |
