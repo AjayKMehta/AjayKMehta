@@ -1,0 +1,35 @@
+# .github/workflows/update-activity.yml:
+
+name: Update GitHub Activity
+
+on:
+  schedule:
+    - cron: "30 0 */2 * *"
+  workflow_dispatch:
+
+jobs:
+  update-activity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update GitHub Activity
+        uses: TheDanniCraft/activity-log@v1
+        with:
+          GITHUB_USER: ${{ github.actor }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          EVENT_LIMIT: 15
+          HIDE_DETAILS_ON_PRIVATE_REPOS: true
+          EVENT_EMOJI_MAP: |
+            PushEvent: "🚀"
+            CreateEvent: "✨"
+            DeleteEvent: "❌"
+            CommitCommentEvent: "🗣"
+            IssueCommentEvent: "🗣"
+            IssuesEvent: |
+              opened: "❗"
+              closed: "✅"
+              labeled: "🏷️"
+            PullRequestEvent: |
+              opened: "🔀"
+              merged: "✔️"
+              labeled: "🏷️"
