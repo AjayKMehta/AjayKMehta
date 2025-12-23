@@ -7,6 +7,7 @@ on:
 
 jobs:
   build:
+    if: ${{ false }} # Skip without any alert
     runs-on: ubuntu-latest
     name: Update this repo's README with recent activity
     permissions:
