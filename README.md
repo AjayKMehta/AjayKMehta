@@ -7,7 +7,11 @@
 
 ## Hi there 👋, I'm Ajay.
 
+[![](img/git-wrapped-AjayKMehta.png)](https://git-wrapped.com/profiles/AjayKMehta)
+
 [![](https://raw.githubusercontent.com/AjayKMehta/AjayKMehta/master/profile-summary-card-output/moonlight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+## Stats
 
 <picture>
   <source
@@ -36,7 +40,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Stats
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=AjayKMehta&theme=nightowl)](https://git.io/streak-stats)
 
