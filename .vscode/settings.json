@@ -1,5 +1,6 @@
 {
     "explorer.excludeGitIgnore": true,
+    "fileVisibilityToggle.alsoToggleGitIgnoreExclusion": true,
     "peacock.color": "#5edcff",
     "workbench.colorCustomizations": {
         "activityBar.activeBackground": "#91e7ff",
