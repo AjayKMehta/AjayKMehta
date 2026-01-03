@@ -1,11 +1,14 @@
-# .github/workflows/update-activity.yml:
-
 name: Update GitHub Activity
 
 on:
   schedule:
     - cron: "30 0 */2 * *"
   workflow_dispatch:
+  push:
+    branches:
+      - master
+    paths:
+      - .github/workflows/update-activiity.yml
 
 jobs:
   update-activity:
@@ -19,10 +22,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.ACTION_TOKEN }}
           EVENT_LIMIT: 15
           HIDE_DETAILS_ON_PRIVATE_REPOS: true
+          IGNORE_EVENTS: [ "DeleteEvent", "WatchEvent" ]
           EVENT_EMOJI_MAP: |
             PushEvent: "🚀"
             CreateEvent: "✨"
-            DeleteEvent: "❌"
             CommitCommentEvent: "🗣"
             IssueCommentEvent: "🗣"
             IssuesEvent: |

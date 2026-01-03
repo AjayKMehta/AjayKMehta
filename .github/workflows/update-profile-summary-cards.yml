@@ -5,6 +5,11 @@ on:
   schedule: # execute every 24 hours
     - cron: '0 10 1/2 * *'
   workflow_dispatch:
+  push:
+    branches:
+      - master
+    paths:
+      - .github/workflows/update-profile-summary-cards.yml
 
 jobs:
   build:

@@ -3,6 +3,11 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "0 1 1/2 * *"
+  push:
+    branches:
+      - master
+    paths:
+      - .github/workflows/update-readme-stats.yml
 
 jobs:
   generate-stats:
