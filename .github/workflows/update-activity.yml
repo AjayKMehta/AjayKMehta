@@ -22,7 +22,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.ACTION_TOKEN }}
           EVENT_LIMIT: 15
           HIDE_DETAILS_ON_PRIVATE_REPOS: true
-          IGNORE_EVENTS: [ "DeleteEvent", "WatchEvent" ]
+          IGNORE_EVENTS: "[DeleteEvent, WatchEvent]"
           EVENT_EMOJI_MAP: |
             PushEvent: "🚀"
             CreateEvent: "✨"
