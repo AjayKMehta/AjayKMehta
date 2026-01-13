@@ -1,0 +1,11 @@
+assert_lefthook_installed: true
+source_dir: .lefthook/
+
+remotes:
+  - git_url: https://github.com/AjayKMehta/lefthook.git
+    configs:
+      - /hooks/commit-msg/run-typos.yml
+      - /hooks/pre-commit/lint-actions.yml
+      - /hooks/pre-commit/lint-markdown.yml
+      - /hooks/pre-commit/lint-vscode.yml
+      - /hooks/pre-commit/lint-yaml.yml
