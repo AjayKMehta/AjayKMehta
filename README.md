@@ -5,13 +5,13 @@
 <a href="https://www.linkedin.com/in/ajay-mehta-b781ba1/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
-## Hi there 👋, I'm Ajay.
+**Hi there 👋, I'm Ajay.**
 
-[![](img/git-wrapped-AjayKMehta.png)](https://git-wrapped.com/profiles/AjayKMehta)
+## Stats
 
 [![](https://raw.githubusercontent.com/AjayKMehta/AjayKMehta/master/profile-summary-card-output/moonlight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-## Stats
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=AjayKMehta&theme=nightowl)](https://git.io/streak-stats)
 
 <picture>
   <source
@@ -25,23 +25,11 @@
   <img src="https://github.com/AjayKMehta/AjayKMehta/raw/grs/stats-light.svg" />
 </picture>
 
-<!--
-**AjayKMehta/AjayKMehta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 2025
 
-Here are some ideas to get you started:
+[![](img/git-wrapped-AjayKMehta.png)](https://git-wrapped.com/profiles/AjayKMehta)
 
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=AjayKMehta&theme=nightowl)](https://git.io/streak-stats)
+[![](img/2024vs2025.png)](https://git-wrapped.com/profiles/AjayKMehta)
 
 ## Skills and interests
 
@@ -67,6 +55,9 @@ Here are some ideas to get you started:
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-lightgreen?logo=docker" /><img alt="git" src="https://img.shields.io/badge/-git-13BEF9?logo=git" /><img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github" /><img alt="gitlab" src="https://img.shields.io/badge/-GitLab-204ECF?logo=gitlab" /><img alt="neovim" src="https://img.shields.io/badge/-Neovim-00FFAA?logo=neovim" /><img alt="latex" src="https://img.shields.io/badge/-LaTeX-008080?logo=latex" />
 
 ## Recent activity
+
+> [!NOTE]
+> This includes activity for public repos.
 
 <!--START_SECTION:activity-->
 1. 🚀 Committed to [AjayKMehta/lefthook](https://github.com/AjayKMehta/lefthook/commit/23e927ca20f41452e808f92518b642709e2c4c95)
