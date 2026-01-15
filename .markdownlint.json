@@ -10,11 +10,13 @@
     "MD028": false,
     "MD033": {
         "allowed_elements": [
+            "a",
             "br",
             "code",
             "details",
             "img",
             "kbd",
+            "picture",
             "summary"
         ]
     },
