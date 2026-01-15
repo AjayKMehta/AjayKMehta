@@ -2,7 +2,7 @@ name: Update GitHub Activity
 
 on:
   schedule:
-    - cron: "30 0 */2 * *"
+    - cron: 30 0 */2 * *
   workflow_dispatch:
   push:
     branches:
@@ -14,9 +14,9 @@ jobs:
   update-activity:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
       - name: Update GitHub Activity
-        uses: TheDanniCraft/activity-log@v1
+        uses: TheDanniCraft/activity-log@b29a4176407e7dc762c9be0c9f7f27e0fc3d973c # v1
         with:
           GITHUB_USERNAME: ${{ github.actor }}
           GITHUB_TOKEN: ${{ secrets.ACTION_TOKEN }}

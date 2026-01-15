@@ -3,7 +3,7 @@ name: Update GitHub profile summary cards
 
 on:
   schedule: # execute every 24 hours
-    - cron: '0 10 1/2 * *'
+    - cron: 0 10 1/2 * *
   workflow_dispatch:
   push:
     branches:
@@ -19,14 +19,14 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@974577f1823715ca047e9976548634816a3a0264 # release
         env:
           GITHUB_TOKEN: ${{ secrets.ACTION_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           # BRANCH_NAME is optional, default to main, branch name to push cards
-          BRANCH_NAME: "master"
+          BRANCH_NAME: master
           # UTC_OFFSET is optional, default to zero
           UTC_OFFSET: 8
           # EXCLUDE is an optional comma separated list of languages to exclude, defaults to ""
