@@ -56,9 +56,6 @@
 
 ## Recent activity
 
-> [!NOTE]
-> This includes activity for public repos.
-
 <!--START_SECTION:activity-->
 1. 🚀 Committed to [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder/commit/f7752ee1d3044cdf18107bddf0fd8c6e68886491)
 2. 🚀 Committed to [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder/commit/f8cb3f7955064f5a5c8cbbfdbee2a6b6c06b1307)
@@ -76,3 +73,6 @@
 14. 🚀 Committed to [AjayKMehta/lefthook](https://github.com/AjayKMehta/lefthook/commit/aceb2ea3ef2076c43d9c160b9516590168325bd7)
 15. 🚀 Committed to [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder/commit/4a0484b51538a5a542b857359fef7a9634da6fc9)
 <!--END_SECTION:activity-->
+
+> [!NOTE]
+> This includes activity for public repos *only*.
