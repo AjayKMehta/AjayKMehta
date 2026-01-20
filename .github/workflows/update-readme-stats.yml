@@ -16,6 +16,8 @@ jobs:
         theme: [light, dark]
     runs-on: ubuntu-latest
     name: Generate stats cards
+    permissions:
+      contents: write
     steps:
       - id: checkout-repo
         name: Checkout
@@ -36,6 +38,8 @@ jobs:
           name: stats-${{ matrix.theme }}
           path: grs
   generate-langs:
+    permissions:
+      contents: write
     strategy:
       matrix:
         theme: [light, dark]
@@ -62,6 +66,7 @@ jobs:
           path: grs
   push:
     permissions:
+      actions: read
       contents: write
     runs-on: ubuntu-latest
     name: Push
