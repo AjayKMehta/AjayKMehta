@@ -13,7 +13,7 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  CHECK_PERMISSIONS: 1
+  CHECK_PERMISSIONS: 0
 
 jobs:
   pre_job:
