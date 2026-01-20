@@ -17,18 +17,20 @@ jobs:
     runs-on: ubuntu-latest
     name: Generate stats cards
     steps:
-      - name: Checkout
+      - id: checkout-repo
+        name: Checkout
         uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
         with:
           persist-credentials: false
-      - name: Generate stats-${{ matrix.theme }}
+      - id: generate-stats
+        name: Generate stats-${{ matrix.theme }}
         uses: UlyssesZh/grs-action@7d6d316976be5912ac850de0d88a34364a144d44 # master
-        id: generate
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&include_all_commits=true&number_format=long&hide_title=true&hide_rank=true&show=discussions_started,prs_merged&hide_border=true&theme=${{ matrix.theme }}
           path: grs/stats-${{ matrix.theme }}.svg
-      - name: Upload stats-${{ matrix.theme }}
+      - id: upload-stats
+        name: Upload stats-${{ matrix.theme }}
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
         with:
           name: stats-${{ matrix.theme }}
@@ -40,18 +42,20 @@ jobs:
     runs-on: ubuntu-latest
     name: Generate top language cards
     steps:
-      - name: Checkout
+      - id: checkout-repo
+        name: Checkout
         uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
         with:
           persist-credentials: false
-      - name: Generate stats-${{ matrix.theme }}
+      - id: generate-langs
+        name: Generate stats-${{ matrix.theme }}
         uses: UlyssesZh/grs-action@7d6d316976be5912ac850de0d88a34364a144d44 # master
-        id: generate
         with:
           options: username=${{ github.repository_owner }}&layout=donut&langs_count=20&hide_border=true&disable_animations=true&theme=${{ matrix.theme }}
           path: grs/langs-${{ matrix.theme }}.svg
           card: langs
-      - name: Upload langs-${{ matrix.theme }}
+      - id: upload-langs
+        name: Upload langs-${{ matrix.theme }}
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
         with:
           name: langs-${{ matrix.theme }}
@@ -63,23 +67,28 @@ jobs:
     name: Push
     needs: [generate-stats, generate-langs]
     steps:
-      - uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
+      - id: download_stats-dark
+        uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
         with:
           name: stats-dark
           path: grs
-      - uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
+      - id: download_stats-light
+        uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
         with:
           name: stats-light
           path: grs
-      - uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
+      - id: download_langs-dark
+        uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
         with:
           name: langs-dark
           path: grs
-      - uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
+      - id: download_langs-light
+        uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
         with:
           name: langs-light
           path: grs
-      - name: Push
+      - id: push
+        name: Push
         uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865 # v4
         with:
           target_branch: grs
