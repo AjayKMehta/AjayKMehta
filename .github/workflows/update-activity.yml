@@ -16,6 +16,9 @@ env:
 jobs:
   update-activity:
     runs-on: ubuntu-latest
+    permissions:
+      actions: read
+      contents: write
     steps:
       - id: check_permissions
         uses: GitHubSecurityLab/actions-permissions/monitor@b25f731bf2f9eb9748c2e9757d366c3e72fa2109 # v1
