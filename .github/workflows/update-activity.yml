@@ -10,11 +10,18 @@ on:
     paths:
       - .github/workflows/update-activiity.yml
 
+env:
+  CHECK_PERMISSIONS: 1
+
 jobs:
   update-activity:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
+      - id: check_permissions
+        uses: GitHubSecurityLab/actions-permissions/monitor@v1
+        if: env.CHECK_PERMISSIONS == '1'
+      - id: checkout_repo
+        uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
         with:
           persist-credentials: false
       - name: Update GitHub Activity
