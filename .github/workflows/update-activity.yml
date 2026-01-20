@@ -13,6 +13,8 @@ on:
 env:
   CHECK_PERMISSIONS: 0
 
+permissions: {}
+
 jobs:
   update-activity:
     runs-on: ubuntu-latest

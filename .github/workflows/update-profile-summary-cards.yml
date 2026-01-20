@@ -14,6 +14,8 @@ on:
 env:
   CHECK_PERMISSIONS: 0
 
+permissions: {}
+
 jobs:
   build:
     runs-on: ubuntu-latest
