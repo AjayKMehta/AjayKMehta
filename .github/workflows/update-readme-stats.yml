@@ -10,7 +10,7 @@ on:
       - .github/workflows/update-readme-stats.yml
 
 env:
-  CHECK_PERMISSIONS: 1
+  CHECK_PERMISSIONS: 0
 
 jobs:
   generate-stats:
