@@ -9,6 +9,11 @@ on:
     paths:
       - .github/workflows/update-readme-stats.yml
 
+concurrency:
+  # github.event.pull_request.number || github.ref: pull request number or branch name if not a pull request
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
 env:
   CHECK_PERMISSIONS: 0
 
