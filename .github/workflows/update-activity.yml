@@ -15,6 +15,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
+        with:
+          persist-credentials: false
       - name: Update GitHub Activity
         uses: TheDanniCraft/activity-log@b29a4176407e7dc762c9be0c9f7f27e0fc3d973c # v1
         with:
