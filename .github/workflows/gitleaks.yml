@@ -19,6 +19,9 @@ jobs:
   pre_job:
     name: Check for Duplicate Actions
     runs-on: ubuntu-latest
+    permissions:
+      actions: write
+      contents: read
     # Map a step output to a job output
     outputs:
       should_skip: ${{ steps.skip_check.outputs.should_skip }}
