@@ -12,7 +12,7 @@ on:
       - .github/workflows/update-profile-summary-cards.yml
 
 env:
-  CHECK_PERMISSIONS: 1
+  CHECK_PERMISSIONS: 0
 
 jobs:
   build:
@@ -28,6 +28,8 @@ jobs:
       - id: checkout-repo
         name: Checkout repo
         uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
+        with:
+          persist-credentials: true # Need for git push
       - id: generate-profile-summary-cards
         name: Generate profile summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@974577f1823715ca047e9976548634816a3a0264 # release
