@@ -12,17 +12,6 @@ output:
   - execution_info # Print `EXECUTE > ...` logging
   - skips # Print "skip" (i.e. no files matched)
 
-remotes:
-  - git_url: https://github.com/AjayKMehta/lefthook.git
-    configs:
-      - /hooks/commit-msg/run-typos.yml
-      - /hooks/pre-commit/lint-actions.yml
-      - /hooks/pre-commit/lint-markdown.yml
-      - /hooks/pre-commit/lint-toml.yml
-      - /hooks/pre-commit/lint-vscode.yml
-      - /hooks/pre-commit/lint-yaml.yml
-      - /hooks/pre-push/detect-secrets.yml
-
 pre-commit:
   parallel: true
   fail_on_changes: ci
@@ -31,3 +20,15 @@ pre-commit:
     - merge
     - merge-commit
     - rebase
+
+remotes:
+  - git_url: https://github.com/AjayKMehta/lefthook.git
+    ref: v1.0.1
+    configs:
+      - /hooks/commit-msg/run-typos.yml
+      - /hooks/pre-commit/lint-actions.yml
+      - /hooks/pre-commit/lint-markdown.yml
+      - /hooks/pre-commit/lint-toml.yml
+      - /hooks/pre-commit/lint-vscode.yml
+      - /hooks/pre-commit/lint-yaml.yml
+      - /hooks/pre-push/detect-secrets.yml
