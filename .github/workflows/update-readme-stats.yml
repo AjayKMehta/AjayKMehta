@@ -23,10 +23,11 @@ jobs:
       contents: write
     steps:
       - id: check-permissions
+        name: Check permissions
         uses: GitHubSecurityLab/actions-permissions/monitor@b25f731bf2f9eb9748c2e9757d366c3e72fa2109 # v1
         if: env.CHECK_PERMISSIONS == '1'
       - id: checkout-repo
-        name: Checkout
+        name: Checkout repo
         uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
         with:
           persist-credentials: false
@@ -53,10 +54,11 @@ jobs:
     name: Generate top language cards
     steps:
       - id: check-permissions
+        name: Check permissions
         uses: GitHubSecurityLab/actions-permissions/monitor@b25f731bf2f9eb9748c2e9757d366c3e72fa2109 # v1
         if: env.CHECK_PERMISSIONS == '1'
       - id: checkout-repo
-        name: Checkout
+        name: Checkout repo
         uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
         with:
           persist-credentials: false
@@ -82,30 +84,35 @@ jobs:
     needs: [generate-stats, generate-langs]
     steps:
       - id: check-permissions
+        name: Check permissions
         uses: GitHubSecurityLab/actions-permissions/monitor@b25f731bf2f9eb9748c2e9757d366c3e72fa2109 # v1
         if: env.CHECK_PERMISSIONS == '1'
       - id: download_stats-dark
+        name: Download stats (dark)
         uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
         with:
           name: stats-dark
           path: grs
       - id: download_stats-light
+        name: Download stats (light)
         uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
         with:
           name: stats-light
           path: grs
       - id: download_langs-dark
+        name: Download langs (dark)
         uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
         with:
           name: langs-dark
           path: grs
       - id: download_langs-light
+        name: Download langs (light)
         uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
         with:
           name: langs-light
           path: grs
-      - id: push
-        name: Push
+      - id: push-images
+        name: Push images
         uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865 # v4
         with:
           target_branch: grs

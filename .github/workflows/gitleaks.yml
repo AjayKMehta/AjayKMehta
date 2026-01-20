@@ -46,14 +46,17 @@ jobs:
       pull-requests: write
     steps:
       - id: check-permissions
+        name: Check permissions
         uses: GitHubSecurityLab/actions-permissions/monitor@b25f731bf2f9eb9748c2e9757d366c3e72fa2109 # v1
         if: env.CHECK_PERMISSIONS == '1'
       - id: checkout-repo
+        name: Checkout repo
         uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
         with:
           fetch-depth: 0
           persist-credentials: false
       - id: detect-secrets
+        name: Detect secrets
         uses: gitleaks/gitleaks-action@ff98106e4c7b2bc287b24eaf42907196329070c7 # v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -22,13 +22,16 @@ jobs:
       contents: write
     steps:
       - id: check-permissions
+        name: Check permissions
         uses: GitHubSecurityLab/actions-permissions/monitor@b25f731bf2f9eb9748c2e9757d366c3e72fa2109 # v1
         if: env.CHECK_PERMISSIONS == '1'
       - id: checkout-repo
+        name: Checkout repo
         uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
         with:
           persist-credentials: false
       - id: generate-profile-summary-cards
+        name: Generate profile summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@974577f1823715ca047e9976548634816a3a0264 # release
         env:
           GITHUB_TOKEN: ${{ secrets.ACTION_TOKEN }}
