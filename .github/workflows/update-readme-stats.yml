@@ -30,7 +30,7 @@ jobs:
       contents: write
     steps:
       - id: check-permissions
-        name: Check permissions
+        name: Check action permissions
         uses: GitHubSecurityLab/actions-permissions/monitor@b25f731bf2f9eb9748c2e9757d366c3e72fa2109 # v1
         if: env.CHECK_PERMISSIONS == '1'
       - id: checkout-repo
@@ -61,7 +61,7 @@ jobs:
     name: Generate top language cards
     steps:
       - id: check-permissions
-        name: Check permissions
+        name: Check action permissions
         uses: GitHubSecurityLab/actions-permissions/monitor@b25f731bf2f9eb9748c2e9757d366c3e72fa2109 # v1
         if: env.CHECK_PERMISSIONS == '1'
       - id: checkout-repo
@@ -91,7 +91,7 @@ jobs:
     needs: [generate-stats, generate-langs]
     steps:
       - id: check-permissions
-        name: Check permissions
+        name: Check action permissions
         uses: GitHubSecurityLab/actions-permissions/monitor@b25f731bf2f9eb9748c2e9757d366c3e72fa2109 # v1
         if: env.CHECK_PERMISSIONS == '1'
       - id: download_stats-dark

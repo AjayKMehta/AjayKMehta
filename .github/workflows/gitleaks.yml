@@ -25,12 +25,14 @@ jobs:
       contents: read
     # Map a step output to a job output
     outputs:
-      should_skip: ${{ steps.skip-check.outputs.should_skip }}
+      should_skip: ${{ steps.check-duplicate-actions.outputs.should_skip }}
     steps:
       - id: check-permissions
+        name: Check action permissions
         uses: GitHubSecurityLab/actions-permissions/monitor@b25f731bf2f9eb9748c2e9757d366c3e72fa2109 # v1
         if: env.CHECK_PERMISSIONS == '1'
-      - id: skip-check
+      - id: check-duplicate-actions
+        name: Check for duplicate actions
         uses: fkirc/skip-duplicate-actions@f75f66ce1886f00957d99748a42c724f4330bdcf # v5
         with:
           cancel_others: 'true'
@@ -47,7 +49,7 @@ jobs:
       pull-requests: write
     steps:
       - id: check-permissions
-        name: Check permissions
+        name: Check action permissions
         uses: GitHubSecurityLab/actions-permissions/monitor@b25f731bf2f9eb9748c2e9757d366c3e72fa2109 # v1
         if: env.CHECK_PERMISSIONS == '1'
       - id: checkout-repo
