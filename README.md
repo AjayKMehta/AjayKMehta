@@ -57,21 +57,21 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Committed to [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/fcb9cb3cbb61cb3da46ce348d531b243793a33f6)
-2. 🚀 Committed to [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder/commit/99bf9553cbc011e15c82d403236cb594ce9afe86)
-3. 🚀 Committed to [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles/commit/96b6e1cc123eec0a946d2a9a3ab3cf93692be57c)
-4. 🚀 Committed to [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/75e04cdfbc90fef349713e4692dfebabdd3d5da5)
-5. 🚀 Committed to [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/3e3021831651206252ed833f0a347415f4f54600)
-6. 🗣 Commented on issue [#12346](https://github.com/cli/cli/issues/12346) in [cli/cli](https://github.com/cli/cli): [View Comment](https://github.com/cli/cli/issues/12346#issuecomment-3782354923)
-7. 🚀 Committed to [AjayKMehta/AjayKMehta](https://github.com/AjayKMehta/AjayKMehta/commit/de7d1c179b53e59f35fca8e77b7e18b444b7c208)
-8. 🚀 Committed to [AjayKMehta/AjayKMehta](https://github.com/AjayKMehta/AjayKMehta/commit/ba950ef2dd580c3306b532f06f87525fa36ae5b9)
-9. 🚀 Committed to [AjayKMehta/AjayKMehta](https://github.com/AjayKMehta/AjayKMehta/commit/be46a3e5bd7d002a4fb8c0b3698f9e1595d2b0bc)
-10. 🚀 Committed to [AjayKMehta/AjayKMehta](https://github.com/AjayKMehta/AjayKMehta/commit/6cab5757a96cf6fbeefefae641664a563b6348f3)
-11. 🚀 Committed to [AjayKMehta/AjayKMehta](https://github.com/AjayKMehta/AjayKMehta/commit/be00e308edd68bde0317da80ff6f8f6a780fabdf)
-12. 🚀 Committed to [AjayKMehta/AjayKMehta](https://github.com/AjayKMehta/AjayKMehta/commit/8944740eb554f069654b2bef70168da4e4e74f4d)
-13. 🚀 Committed to [AjayKMehta/AjayKMehta](https://github.com/AjayKMehta/AjayKMehta/commit/ec02f16335176a32332e69671f8d3e1b4058e363)
-14. 🚀 Committed to [AjayKMehta/AjayKMehta](https://github.com/AjayKMehta/AjayKMehta/commit/2b934648104ab840e919b5a0b485f91577645140)
-15. 🚀 Committed to [AjayKMehta/AjayKMehta](https://github.com/AjayKMehta/AjayKMehta/commit/82a1ab13de583d28ddddc784ee8493422804ca76)
+1. 🚀 Committed to [AjayKMehta/AjayKMehta](https://github.com/AjayKMehta/AjayKMehta/commit/7dd67a555225276ddfa15cfd424c640295ff72f3)
+2. 🚀 Committed to [AjayKMehta/lefthook](https://github.com/AjayKMehta/lefthook/commit/810ea4262c6e56e6c6c58a7fe0dfd4e5c76be888)
+3. 🚀 Committed to [AjayKMehta/AjayKMehta](https://github.com/AjayKMehta/AjayKMehta/commit/c0579dae67e435831ab0476234d2026e8d679a50)
+4. 🚀 Committed to [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/363d3147e59e3152353d128e9c6d621c93adf1b3)
+5. 🚀 Committed to [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/4fd95729cab2e8f8a1e640debc36387891f5c6bb)
+6. 🚀 Committed to [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/fcb9cb3cbb61cb3da46ce348d531b243793a33f6)
+7. 🚀 Committed to [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder/commit/99bf9553cbc011e15c82d403236cb594ce9afe86)
+8. 🚀 Committed to [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles/commit/96b6e1cc123eec0a946d2a9a3ab3cf93692be57c)
+9. 🚀 Committed to [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/75e04cdfbc90fef349713e4692dfebabdd3d5da5)
+10. 🚀 Committed to [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/3e3021831651206252ed833f0a347415f4f54600)
+11. 🗣 Commented on issue [#12346](https://github.com/cli/cli/issues/12346) in [cli/cli](https://github.com/cli/cli): [View Comment](https://github.com/cli/cli/issues/12346#issuecomment-3782354923)
+12. 🚀 Committed to [AjayKMehta/AjayKMehta](https://github.com/AjayKMehta/AjayKMehta/commit/de7d1c179b53e59f35fca8e77b7e18b444b7c208)
+13. 🚀 Committed to [AjayKMehta/AjayKMehta](https://github.com/AjayKMehta/AjayKMehta/commit/ba950ef2dd580c3306b532f06f87525fa36ae5b9)
+14. 🚀 Committed to [AjayKMehta/AjayKMehta](https://github.com/AjayKMehta/AjayKMehta/commit/be46a3e5bd7d002a4fb8c0b3698f9e1595d2b0bc)
+15. 🚀 Committed to [AjayKMehta/AjayKMehta](https://github.com/AjayKMehta/AjayKMehta/commit/6cab5757a96cf6fbeefefae641664a563b6348f3)
 <!--END_SECTION:activity-->
 
 > [!NOTE]
