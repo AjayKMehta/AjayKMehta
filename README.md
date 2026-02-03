@@ -57,21 +57,21 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Committed to [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/75d4fb51c2f6635d18ce87a10633a056ad875cd8)
-2. 🚀 Committed to [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/a6adde2cb569b147f8a57bc22ea7654444ab028a)
-3. 🏷️ Added a label to an issue [#426](https://github.com/microsoft/vscode-codicons/issues/426) in [microsoft/vscode-codicons](https://github.com/microsoft/vscode-codicons)
-4. ❗ Opened an issue [#426](https://github.com/microsoft/vscode-codicons/issues/426) in [microsoft/vscode-codicons](https://github.com/microsoft/vscode-codicons)
-5. 🚀 Committed to [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery/commit/2ed2f7dc71b5b10f1526869d75a6fca63ee62c60)
-6. 🚀 Committed to [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder/commit/28ca678f3892bf33e888b7e33d347a5685e330c1)
-7. 🚀 Committed to [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery/commit/3e65c7ac3a67aaa4d738e8c0320f8b0a2b32e175)
-8. 🚀 Committed to [AjayKMehta/AjayKMehta](https://github.com/AjayKMehta/AjayKMehta/commit/cccded1452c899ee94a6b5a52df7ba42c51c5695)
-9. 🚀 Committed to [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder/commit/ba9d87bab87a65f0d9f3fe396ca3c9ca2990336e)
-10. 🚀 Committed to [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/7388819fe8ae2e9f6ced5dd4d3affe4dfdab4d76)
-11. 🚀 Committed to [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder/commit/99347814cea19ef02b0488f8f93eaa1272af77d0)
-12. 🚀 Committed to [AjayKMehta/AjayKMehta](https://github.com/AjayKMehta/AjayKMehta/commit/fd37c795ee7656ac044a1b682820f421ede349ee)
-13. 🚀 Committed to [AjayKMehta/lefthook](https://github.com/AjayKMehta/lefthook/commit/e175427bef07131d192ef0539a1e2c4407bda0d7)
-14. 🔎 Reviewed [PR #1](https://github.com/AjayKMehta/AjayKMehta/pull/1) in [AjayKMehta/AjayKMehta](https://github.com/AjayKMehta/AjayKMehta)
-15. 🔎 Reviewed [PR #1](https://github.com/AjayKMehta/AjayKMehta/pull/1) in [AjayKMehta/AjayKMehta](https://github.com/AjayKMehta/AjayKMehta)
+1. 🚀 Committed to [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/b1ceae35b32952964e0b03bef1ec2df8a3ec0fd0)
+2. 🚀 Committed to [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/8d323ca1043a281d939b73b637f09cfa93182d67)
+3. ❌ Closed [PR #2](https://github.com/AjayKMehta/PowerShellScripts/pull/2) in [AjayKMehta/PowerShellScripts](https://github.com/AjayKMehta/PowerShellScripts)
+4. 🚀 Committed to [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery/commit/91f836cc49248e14579b7ad3fd6990f755168fd7)
+5. 🚀 Committed to [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder/commit/10dda6245b349d7b0da9b41da2a308407ab9dc90)
+6. 🚀 Committed to [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/75d4fb51c2f6635d18ce87a10633a056ad875cd8)
+7. 🚀 Committed to [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/a6adde2cb569b147f8a57bc22ea7654444ab028a)
+8. 🏷️ Added a label to an issue [#426](https://github.com/microsoft/vscode-codicons/issues/426) in [microsoft/vscode-codicons](https://github.com/microsoft/vscode-codicons)
+9. ❗ Opened an issue [#426](https://github.com/microsoft/vscode-codicons/issues/426) in [microsoft/vscode-codicons](https://github.com/microsoft/vscode-codicons)
+10. 🚀 Committed to [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery/commit/2ed2f7dc71b5b10f1526869d75a6fca63ee62c60)
+11. 🚀 Committed to [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder/commit/28ca678f3892bf33e888b7e33d347a5685e330c1)
+12. 🚀 Committed to [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery/commit/3e65c7ac3a67aaa4d738e8c0320f8b0a2b32e175)
+13. 🚀 Committed to [AjayKMehta/AjayKMehta](https://github.com/AjayKMehta/AjayKMehta/commit/cccded1452c899ee94a6b5a52df7ba42c51c5695)
+14. 🚀 Committed to [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder/commit/ba9d87bab87a65f0d9f3fe396ca3c9ca2990336e)
+15. 🚀 Committed to [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/7388819fe8ae2e9f6ced5dd4d3affe4dfdab4d76)
 <!--END_SECTION:activity-->
 
 > [!NOTE]
