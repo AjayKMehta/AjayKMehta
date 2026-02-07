@@ -57,21 +57,21 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Committed to [AjayKMehta/AjayKMehta](https://github.com/AjayKMehta/AjayKMehta/commit/e16c4ea6ba8a68c6c7a5349942413a6fa409758d)
-2. 🚀 Committed to [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder/commit/20ed446e94111f370464ac1845e90a4728014fac)
-3. 🚀 Committed to [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/d46a29b05c9dcad41341b5aaf32c330c4bc9089b)
-4. 🚀 Committed to [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles/commit/fd5fe6c9ff33ba51bc2800ebe29a663c3a3e5458)
-5. 🚀 Committed to [AjayKMehta/lefthook](https://github.com/AjayKMehta/lefthook/commit/e45ed6317fca26e5f99d6df18f643be4b2ec8f2a)
-6. 🚀 Committed to [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/b1ceae35b32952964e0b03bef1ec2df8a3ec0fd0)
-7. 🚀 Committed to [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/8d323ca1043a281d939b73b637f09cfa93182d67)
-8. ❌ Closed [PR #2](https://github.com/AjayKMehta/PowerShellScripts/pull/2) in [AjayKMehta/PowerShellScripts](https://github.com/AjayKMehta/PowerShellScripts)
-9. 🚀 Committed to [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery/commit/91f836cc49248e14579b7ad3fd6990f755168fd7)
-10. 🚀 Committed to [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder/commit/10dda6245b349d7b0da9b41da2a308407ab9dc90)
-11. 🚀 Committed to [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/75d4fb51c2f6635d18ce87a10633a056ad875cd8)
-12. 🚀 Committed to [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/a6adde2cb569b147f8a57bc22ea7654444ab028a)
-13. 🏷️ Added a label to an issue [#426](https://github.com/microsoft/vscode-codicons/issues/426) in [microsoft/vscode-codicons](https://github.com/microsoft/vscode-codicons)
-14. ❗ Opened an issue [#426](https://github.com/microsoft/vscode-codicons/issues/426) in [microsoft/vscode-codicons](https://github.com/microsoft/vscode-codicons)
-15. 🚀 Committed to [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery/commit/2ed2f7dc71b5b10f1526869d75a6fca63ee62c60)
+1. 🚀 Committed to [AjayKMehta/lefthook](https://github.com/AjayKMehta/lefthook/commit/fd79df06a79e4548910fe5c2fa96f1f1e1c0c021)
+2. 🚀 Committed to [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery/commit/49c126ee391df998019f2e288328e2e7c59f6d5f)
+3. 🚀 Committed to [AjayKMehta/AjayKMehta](https://github.com/AjayKMehta/AjayKMehta/commit/e16c4ea6ba8a68c6c7a5349942413a6fa409758d)
+4. 🚀 Committed to [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder/commit/20ed446e94111f370464ac1845e90a4728014fac)
+5. 🚀 Committed to [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/d46a29b05c9dcad41341b5aaf32c330c4bc9089b)
+6. 🚀 Committed to [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles/commit/fd5fe6c9ff33ba51bc2800ebe29a663c3a3e5458)
+7. 🚀 Committed to [AjayKMehta/lefthook](https://github.com/AjayKMehta/lefthook/commit/e45ed6317fca26e5f99d6df18f643be4b2ec8f2a)
+8. 🚀 Committed to [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/b1ceae35b32952964e0b03bef1ec2df8a3ec0fd0)
+9. 🚀 Committed to [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/8d323ca1043a281d939b73b637f09cfa93182d67)
+10. ❌ Closed [PR #2](https://github.com/AjayKMehta/PowerShellScripts/pull/2) in [AjayKMehta/PowerShellScripts](https://github.com/AjayKMehta/PowerShellScripts)
+11. 🚀 Committed to [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery/commit/91f836cc49248e14579b7ad3fd6990f755168fd7)
+12. 🚀 Committed to [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder/commit/10dda6245b349d7b0da9b41da2a308407ab9dc90)
+13. 🚀 Committed to [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/75d4fb51c2f6635d18ce87a10633a056ad875cd8)
+14. 🚀 Committed to [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/a6adde2cb569b147f8a57bc22ea7654444ab028a)
+15. 🏷️ Added a label to an issue [#426](https://github.com/microsoft/vscode-codicons/issues/426) in [microsoft/vscode-codicons](https://github.com/microsoft/vscode-codicons)
 <!--END_SECTION:activity-->
 
 > [!NOTE]
