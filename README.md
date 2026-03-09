@@ -57,21 +57,21 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Committed to [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/343efe1df07f6fb5ab6b2d3e6f27693a9a509bee)
-2. 🚀 Committed to [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder/commit/2528707930cfdb80e9ea204ff6b934f46617bb1d)
-3. 🚀 Committed to [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery/commit/2a5981f188e2ac07e0405d97bb474ada89735809)
-4. 🚀 Committed to [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/497825166ac1d2fe2c2f7eba352a5e4ba909257a)
-5. 🚀 Committed to [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/81fa2785db13009261182e47d950fca1f7717037)
-6. 🚀 Committed to [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/01943a508e9fa737b821a4f57e9acd72cec7608f)
-7. 🚀 Committed to [AjayKMehta/AjayKMehta](https://github.com/AjayKMehta/AjayKMehta/commit/755f1a3fdb15fbb7d0cb1d1fbf67b286a9ab35f8)
-8. 🚀 Committed to [AjayKMehta/AjayKMehta](https://github.com/AjayKMehta/AjayKMehta/commit/012dee6714e39fb8a5cdab4f2bdef19d426617a2)
-9. 🚀 Committed to [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/8f81810e4a7f1c1ccac0f39b3e7fd33f9d64ec47)
-10. 🚀 Committed to [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/381034a849380b44369b632889f2a0d1778aa251)
-11. 🚀 Committed to [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles/commit/0c62f6a696d20b819a4a7c58b7d88bd35229a614)
-12. 🚀 Committed to [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles/commit/526745793a243d9e3ad178dfa87c2238858260ed)
-13. 🚀 Committed to [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/582df9bed733fc2a71f584da56c684e77050dc87)
-14. 🚀 Committed to [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/357ff55ee565ba3207bdc4eb7169a2eae4d67f8b)
-15. 🚀 Committed to [AjayKMehta/PowerShellScripts](https://github.com/AjayKMehta/PowerShellScripts/commit/6a4306fef2087cf981fe401a4cf4da874fd8177f)
+1. 🚀 Committed to [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/a085096225e287b267a20c98728a87e7dad9042b)
+2. 🚀 Committed to [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/376c728e9b68e12c530fd1000f4606113016ad7a)
+3. 🚀 Committed to [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/bb26d1bcde6315a56fcece716c08200f5dbebaf3)
+4. 🚀 Committed to [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/db2742abdbc24aeb9f294838240825d50aba60e9)
+5. 🚀 Committed to [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/343efe1df07f6fb5ab6b2d3e6f27693a9a509bee)
+6. 🚀 Committed to [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder/commit/2528707930cfdb80e9ea204ff6b934f46617bb1d)
+7. 🚀 Committed to [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery/commit/2a5981f188e2ac07e0405d97bb474ada89735809)
+8. 🚀 Committed to [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/497825166ac1d2fe2c2f7eba352a5e4ba909257a)
+9. 🚀 Committed to [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/81fa2785db13009261182e47d950fca1f7717037)
+10. 🚀 Committed to [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/01943a508e9fa737b821a4f57e9acd72cec7608f)
+11. 🚀 Committed to [AjayKMehta/AjayKMehta](https://github.com/AjayKMehta/AjayKMehta/commit/755f1a3fdb15fbb7d0cb1d1fbf67b286a9ab35f8)
+12. 🚀 Committed to [AjayKMehta/AjayKMehta](https://github.com/AjayKMehta/AjayKMehta/commit/012dee6714e39fb8a5cdab4f2bdef19d426617a2)
+13. 🚀 Committed to [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/8f81810e4a7f1c1ccac0f39b3e7fd33f9d64ec47)
+14. 🚀 Committed to [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/381034a849380b44369b632889f2a0d1778aa251)
+15. 🚀 Committed to [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles/commit/0c62f6a696d20b819a4a7c58b7d88bd35229a614)
 <!--END_SECTION:activity-->
 
 > [!NOTE]
