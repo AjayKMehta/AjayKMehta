@@ -57,21 +57,21 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Committed to [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/a1b5a9419cd4c29de332f057e5c5c8460dd09b32)
-2. 🚀 Committed to [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder/commit/be37b8fe78dc4a32fd712d8ff9571c656fc77ac3)
-3. 🚀 Committed to [AjayKMehta/AjayKMehta](https://github.com/AjayKMehta/AjayKMehta/commit/466f5861fe021ca79e8f241f78ed58f6e611da3e)
-4. 🚀 Committed to [AjayKMehta/lefthook](https://github.com/AjayKMehta/lefthook/commit/3da299e7481e6a7bc53fc8c97e3a28370e23fcf5)
-5. 🚀 Committed to [AjayKMehta/lefthook](https://github.com/AjayKMehta/lefthook/commit/50e39d44fe6e8bc9ccbeba2b3496338a2b087094)
-6. 🚀 Committed to [AjayKMehta/lefthook](https://github.com/AjayKMehta/lefthook/commit/c185eea47c69300750340ccb9af841e1e02c451c)
-7. 🚀 Committed to [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder/commit/e8c21d9b331ab5637e4d950c49c118f246f620b9)
-8. 🚀 Committed to [AjayKMehta/AjayKMehta](https://github.com/AjayKMehta/AjayKMehta/commit/6e3779bd4f4c92a14f8dd19af36536442fcbc41c)
-9. 🚀 Committed to [AjayKMehta/lefthook](https://github.com/AjayKMehta/lefthook/commit/6c7b4eab0bc05f43752a5d840d85a2b234c18ed0)
-10. 🚀 Committed to [AjayKMehta/lefthook](https://github.com/AjayKMehta/lefthook/commit/187ea8e6494e16894bd2c2e42e21642a71239613)
-11. 🚀 Committed to [AjayKMehta/lefthook](https://github.com/AjayKMehta/lefthook/commit/76e6921a44909361c12dbd1acbe4fd1e295b9979)
-12. 🚀 Committed to [AjayKMehta/lefthook](https://github.com/AjayKMehta/lefthook/commit/8c408de7c1005e224619de4660ae54789ad9be93)
-13. 🚀 Committed to [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/5d7244aff39659494caa7156fb5b63aff97f11c3)
-14. 🗣 Commented on issue [#426](https://github.com/microsoft/vscode-codicons/issues/426) in [microsoft/vscode-codicons](https://github.com/microsoft/vscode-codicons): [View Comment](https://github.com/microsoft/vscode-codicons/issues/426#issuecomment-4051325485)
-15. 🚀 Committed to [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles/commit/1a777a207452fbb25d3ae4aceed0af3e27ff4902)
+1. 🚀 Committed to [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/bbde2a9e9d638b54e30accfa73b2903f3edeb6e9)
+2. 🚀 Committed to [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery/commit/765764085884f6295beca9063edc5cf6fe53ef81)
+3. 🚀 Committed to [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/06a86c61fcb9d362ac76ffff2221c4a4d791e1c6)
+4. 🚀 Committed to [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder/commit/0043c0bf3d4a4c38cb62055d7460d54d4144b314)
+5. 🚀 Committed to [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/2cc8df7cdf82a96c04d6a2f27cce7bbb83462e21)
+6. 🚀 Committed to [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/a1b5a9419cd4c29de332f057e5c5c8460dd09b32)
+7. 🚀 Committed to [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder/commit/be37b8fe78dc4a32fd712d8ff9571c656fc77ac3)
+8. 🚀 Committed to [AjayKMehta/AjayKMehta](https://github.com/AjayKMehta/AjayKMehta/commit/466f5861fe021ca79e8f241f78ed58f6e611da3e)
+9. 🚀 Committed to [AjayKMehta/lefthook](https://github.com/AjayKMehta/lefthook/commit/3da299e7481e6a7bc53fc8c97e3a28370e23fcf5)
+10. 🚀 Committed to [AjayKMehta/lefthook](https://github.com/AjayKMehta/lefthook/commit/50e39d44fe6e8bc9ccbeba2b3496338a2b087094)
+11. 🚀 Committed to [AjayKMehta/lefthook](https://github.com/AjayKMehta/lefthook/commit/c185eea47c69300750340ccb9af841e1e02c451c)
+12. 🚀 Committed to [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder/commit/e8c21d9b331ab5637e4d950c49c118f246f620b9)
+13. 🚀 Committed to [AjayKMehta/AjayKMehta](https://github.com/AjayKMehta/AjayKMehta/commit/6e3779bd4f4c92a14f8dd19af36536442fcbc41c)
+14. 🚀 Committed to [AjayKMehta/lefthook](https://github.com/AjayKMehta/lefthook/commit/6c7b4eab0bc05f43752a5d840d85a2b234c18ed0)
+15. 🚀 Committed to [AjayKMehta/lefthook](https://github.com/AjayKMehta/lefthook/commit/187ea8e6494e16894bd2c2e42e21642a71239613)
 <!--END_SECTION:activity-->
 
 > [!NOTE]
