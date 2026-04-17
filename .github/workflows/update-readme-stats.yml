@@ -23,7 +23,7 @@ jobs:
   generate-stats:
     strategy:
       matrix:
-        theme: [light, dark]
+        theme: [default, dark]
     runs-on: ubuntu-latest
     name: Generate stats cards
     permissions:
@@ -40,7 +40,7 @@ jobs:
           persist-credentials: false
       - id: generate-stats-svg
         name: Generate stats-${{ matrix.theme }}
-        uses: UlyssesZh/grs-action@7d6d316976be5912ac850de0d88a34364a144d44 # master
+        uses: stats-organization/github-readme-stats-action@b4d2ef3b8051484b318d455163153b23a2b35fa2 # v1.1.0
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&include_all_commits=true&number_format=long&hide_title=true&hide_rank=true&show=discussions_started,prs_merged&hide_border=true&theme=${{ matrix.theme }}
@@ -56,7 +56,7 @@ jobs:
       contents: write
     strategy:
       matrix:
-        theme: [light, dark]
+        theme: [default, dark]
     runs-on: ubuntu-latest
     name: Generate top language cards
     steps:
@@ -71,11 +71,11 @@ jobs:
           persist-credentials: false
       - id: generate-langs-svg
         name: Generate stats-${{ matrix.theme }}
-        uses: UlyssesZh/grs-action@7d6d316976be5912ac850de0d88a34364a144d44 # master
+        uses: stats-organization/github-readme-stats-action@b4d2ef3b8051484b318d455163153b23a2b35fa2 # v1.1.0
         with:
           options: username=${{ github.repository_owner }}&layout=donut&langs_count=20&hide_border=true&disable_animations=true&theme=${{ matrix.theme }}
           path: grs/langs-${{ matrix.theme }}.svg
-          card: langs
+          card: top-langs
       - id: upload-langs
         name: Upload langs-${{ matrix.theme }}
         uses: actions/upload-artifact@bbbca2ddaa5d8feaa63e36b76fdaad77386f024f # v7.0.0
@@ -104,7 +104,7 @@ jobs:
         name: Download stats (light)
         uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
         with:
-          name: stats-light
+          name: stats-default
           path: grs
       - id: download_langs-dark
         name: Download langs (dark)
@@ -116,7 +116,7 @@ jobs:
         name: Download langs (light)
         uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
         with:
-          name: langs-light
+          name: langs-default
           path: grs
       - id: push-images
         name: Push images
