@@ -70,7 +70,7 @@ jobs:
         with:
           persist-credentials: false
       - id: generate-langs-svg
-        name: Generate stats-${{ matrix.theme }}
+        name: Generate langs-${{ matrix.theme }}
         uses: stats-organization/github-readme-stats-action@b4d2ef3b8051484b318d455163153b23a2b35fa2 # v1.1.0
         with:
           options: username=${{ github.repository_owner }}&layout=donut&langs_count=20&hide_border=true&disable_animations=true&theme=${{ matrix.theme }}
