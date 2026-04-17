@@ -15,14 +15,14 @@
 
 <picture>
   <source
-    srcset="https://github.com/AjayKMehta/AjayKMehta/raw/grs/stats-dark.svg"
+    srcset="https://raw.githubusercontent.com/AjayKMehta/AjayKMehta/refs/heads/master/img/stats-dark.svg"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github.com/AjayKMehta/AjayKMehta/raw/grs/stats-light.svg"
+    srcset="https://raw.githubusercontent.com/AjayKMehta/AjayKMehta/refs/heads/master/img/stats-light.svg"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github.com/AjayKMehta/AjayKMehta/raw/grs/stats-light.svg" />
+  <img src="https://raw.githubusercontent.com/AjayKMehta/AjayKMehta/refs/heads/master/img/stats-light.svg" />
 </picture>
 
 ### 2025
