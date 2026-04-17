@@ -37,92 +37,29 @@ jobs:
         name: Checkout repo
         uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
         with:
-          persist-credentials: false
+          persist-credentials: true
       - id: generate-stats-svg
-        name: Generate stats-${{ matrix.theme }}
+        name: Generate stats ${{ matrix.theme }}
         uses: stats-organization/github-readme-stats-action@b4d2ef3b8051484b318d455163153b23a2b35fa2 # v1.1.0
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&include_all_commits=true&number_format=long&hide_title=true&hide_rank=true&show=discussions_started,prs_merged&hide_border=true&theme=${{ matrix.theme }}
-          path: grs/stats-${{ matrix.theme }}.svg
-      - id: upload-stats
-        name: Upload stats-${{ matrix.theme }}
-        uses: actions/upload-artifact@bbbca2ddaa5d8feaa63e36b76fdaad77386f024f # v7.0.0
-        with:
-          name: stats-${{ matrix.theme }}
-          path: grs
-  generate-langs:
-    permissions:
-      contents: write
-    strategy:
-      matrix:
-        theme: [default, dark]
-    runs-on: ubuntu-latest
-    name: Generate top language cards
-    steps:
-      - id: check-permissions
-        name: Check action permissions
-        uses: GitHubSecurityLab/actions-permissions/monitor@bf82d13b9b10051d224345ab9184f5ede0a94289 # v1.0.2-beta9
-        if: env.CHECK_PERMISSIONS == '1'
-      - id: checkout-repo
-        name: Checkout repo
-        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
-        with:
-          persist-credentials: false
+          path: img/stats-${{ matrix.theme }}.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
       - id: generate-langs-svg
-        name: Generate stats-${{ matrix.theme }}
+        name: Generate langs ${{ matrix.theme }}
         uses: stats-organization/github-readme-stats-action@b4d2ef3b8051484b318d455163153b23a2b35fa2 # v1.1.0
         with:
           options: username=${{ github.repository_owner }}&layout=donut&langs_count=20&hide_border=true&disable_animations=true&theme=${{ matrix.theme }}
-          path: grs/langs-${{ matrix.theme }}.svg
+          path: img/langs-${{ matrix.theme }}.svg
           card: top-langs
-      - id: upload-langs
-        name: Upload langs-${{ matrix.theme }}
-        uses: actions/upload-artifact@bbbca2ddaa5d8feaa63e36b76fdaad77386f024f # v7.0.0
-        with:
-          name: langs-${{ matrix.theme }}
-          path: grs
-  push:
-    permissions:
-      actions: read
-      contents: write
-    runs-on: ubuntu-latest
-    name: Push images
-    needs: [generate-stats, generate-langs]
-    steps:
-      - id: check-permissions
-        name: Check action permissions
-        uses: GitHubSecurityLab/actions-permissions/monitor@bf82d13b9b10051d224345ab9184f5ede0a94289 # v1.0.2-beta9
-        if: env.CHECK_PERMISSIONS == '1'
-      - id: download_stats-dark
-        name: Download stats (dark)
-        uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
-        with:
-          name: stats-dark
-          path: grs
-      - id: download_stats-light
-        name: Download stats (light)
-        uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
-        with:
-          name: stats-default
-          path: grs
-      - id: download_langs-dark
-        name: Download langs (dark)
-        uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
-        with:
-          name: langs-dark
-          path: grs
-      - id: download_langs-light
-        name: Download langs (light)
-        uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
-        with:
-          name: langs-default
-          path: grs
-      - id: push-images
-        name: Push images
-        uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4 # v5.0.0
-        with:
-          target_branch: grs
-          build_dir: grs
-        env:
-          GITHUB_TOKEN: ${{ secrets.ACTION_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - id: commit-changes
+        name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add img/langs-*.svg
+          git add img/stats-*.svg
+          git commit -m "Update README cards" || exit 0
+          git push
