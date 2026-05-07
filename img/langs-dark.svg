@@ -126,21 +126,21 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#012456" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        PowerShell 75.46%
+        PowerShell 75.50%
       </text>
     </g>
   </g><g transform="translate(0, 32)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#000080" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Lua 11.58%
+        Lua 11.56%
       </text>
     </g>
   </g><g transform="translate(0, 64)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#89e051" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Shell 9.63%
+        Shell 9.62%
       </text>
     </g>
   </g><g transform="translate(0, 96)">
@@ -207,8 +207,8 @@
        <g class="stagger" style="animation-delay: 600ms">
         <path
           data-testid="lang-donut"
-          size="75.46"
-          d="M 60.02366697968836 115.0290777157737 A 56.66666666666667 56.66666666666667 0 1 0 116.66666666666667 60"
+          size="75.49"
+          d="M 60.0268543882011 114.92231114920679 A 56.66666666666667 56.66666666666667 0 1 0 116.66666666666667 60"
           stroke="#012456"
           fill="none"
           stroke-width="12">
@@ -218,8 +218,8 @@
        <g class="stagger" style="animation-delay: 700ms">
         <path
           data-testid="lang-donut"
-          size="11.58"
-          d="M 75.45606722928423 77.77196773322942 A 56.66666666666667 56.66666666666667 0 0 0 60.02366697968836 115.0290777157737"
+          size="11.56"
+          d="M 75.48051362240884 77.74608202915022 A 56.66666666666667 56.66666666666667 0 0 0 60.0268543882011 114.92231114920679"
           stroke="#000080"
           fill="none"
           stroke-width="12">
@@ -229,8 +229,8 @@
        <g class="stagger" style="animation-delay: 800ms">
         <path
           data-testid="lang-donut"
-          size="9.63"
-          d="M 104.89661333472777 61.23583629516289 A 56.66666666666667 56.66666666666667 0 0 0 75.45606722928423 77.77196773322942"
+          size="9.62"
+          d="M 104.89661333472777 61.23583629516289 A 56.66666666666667 56.66666666666667 0 0 0 75.48051362240884 77.74608202915022"
           stroke="#89e051"
           fill="none"
           stroke-width="12">
