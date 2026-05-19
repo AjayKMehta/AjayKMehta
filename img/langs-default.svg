@@ -126,14 +126,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#012456" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        PowerShell 75.50%
+        PowerShell 75.52%
       </text>
     </g>
   </g><g transform="translate(0, 32)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#000080" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Lua 11.56%
+        Lua 11.54%
       </text>
     </g>
   </g><g transform="translate(0, 64)">
@@ -207,8 +207,8 @@
        <g class="stagger" style="animation-delay: 600ms">
         <path
           data-testid="lang-donut"
-          size="75.49"
-          d="M 60.0268543882011 114.92231114920679 A 56.66666666666667 56.66666666666667 0 1 0 116.66666666666667 60"
+          size="75.51"
+          d="M 60.02909113041311 114.8511368579653 A 56.66666666666667 56.66666666666667 0 1 0 116.66666666666667 60"
           stroke="#012456"
           fill="none"
           stroke-width="12">
@@ -218,8 +218,8 @@
        <g class="stagger" style="animation-delay: 700ms">
         <path
           data-testid="lang-donut"
-          size="11.56"
-          d="M 75.48051362240884 77.74608202915022 A 56.66666666666667 56.66666666666667 0 0 0 60.0268543882011 114.92231114920679"
+          size="11.54"
+          d="M 75.48051362240884 77.74608202915022 A 56.66666666666667 56.66666666666667 0 0 0 60.02909113041311 114.8511368579653"
           stroke="#000080"
           fill="none"
           stroke-width="12">
