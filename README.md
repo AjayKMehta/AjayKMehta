@@ -57,21 +57,21 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Committed to master in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery/commit/c5ea1016de3a99d3d3433367cf6fb2adfd33b8c0)
-2. 🚀 Committed to main in [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/ae1a9cacfbd625bf7e30bceda23535bc6e2132dc)
-3. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/db2934f64aaa39f1892a1756110a9b99000fc302)
-4. 🔎 Created PR #332 in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder/pull/332#pullrequestreview-4282595593)
-5. 🚀 Committed to master in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery/commit/d774225a96ea4d01296272b374f95715bc9e7446)
-6. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/c057ae6d3636ad45eed16a5c13f2b009790ae41a)
-7. 🚀 Committed to main in [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/6d8e235dd6cae0afadcd4e2a19a5de3d21fffda9)
-8. 🚀 Committed to main in [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles/commit/19f1f7dbd76a57d68e7e8e991ea0c241f6dd2fc9)
-9. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/b29031d5691811e492174ccf8bac8760c672c84d)
-10. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/ecb2630d9b03bc863b73c4a2d65b86243d4f4552)
-11. 🚀 Committed to main in [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles/commit/0605a55965c8c23e23592975b6b40a6e8a898e97)
-12. 🚀 Committed to master in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder/commit/5fa73394886a6848b8c15b99b27a20f087281f8d)
-13. 🚀 Committed to master in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery/commit/725a9baf66837c3fa97a3df687109cfbc41b48ef)
-14. 🚀 Committed to master in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery/commit/83b7eb6a35e006a44d18a78f4d979389cf91a968)
-15. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/66dc258b6a85ae58fbdc2c05f2bf1c7a97adf14e)
+1. 🚀 Committed to main in [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles/commit/7922d758c66058772e80d59f9d002a99fcb38b57)
+2. 🚀 Committed to master in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder/commit/680501865eece6568827389f00a34b1fd77c4562)
+3. 🚀 Committed to main in [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles/commit/a38b093b627104f23766256bdccd85f1cad6bcf8)
+4. 🚀 Committed to main in [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/6c882b8bdc27c178f328e420267a80c02cadfdab)
+5. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/a9770d30f62d32745d3d828edb0c0e33c1ecf0be)
+6. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/c6c254e736fe1c09e0e706b1916f9588e790e861)
+7. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/7973d5a4286358ebf74c73312fdbffd19757fba0)
+8. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/d5883e0ca0023f819058d90d2df20a7e183be9ed)
+9. 🚀 Committed to master in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery/commit/c5ea1016de3a99d3d3433367cf6fb2adfd33b8c0)
+10. 🚀 Committed to main in [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/ae1a9cacfbd625bf7e30bceda23535bc6e2132dc)
+11. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/db2934f64aaa39f1892a1756110a9b99000fc302)
+12. 🔎 Created PR #332 in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder/pull/332#pullrequestreview-4282595593)
+13. 🚀 Committed to master in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery/commit/d774225a96ea4d01296272b374f95715bc9e7446)
+14. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/c057ae6d3636ad45eed16a5c13f2b009790ae41a)
+15. 🚀 Committed to main in [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/6d8e235dd6cae0afadcd4e2a19a5de3d21fffda9)
 <!--END_SECTION:activity-->
 
 > [!NOTE]
