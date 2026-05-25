@@ -39,7 +39,7 @@ jobs:
           persist-credentials: false
       - id: update-activity
         name: Update GitHub Activity
-        uses: TheDanniCraft/activity-log@d3e1ec09f07f30cd4472c34c194f57de6ee0404d # v1
+        uses: TheDanniCraft/activity-log@130ff6ba97c30b2d272f27851db0a347b29472af # v1
         with:
           GITHUB_USERNAME: ${{ github.actor }}
           GITHUB_TOKEN: ${{ secrets.ACTION_TOKEN }}
