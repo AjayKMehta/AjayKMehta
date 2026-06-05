@@ -57,21 +57,21 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Committed to main in [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/9a0769aac021ec82a5fab3d9fb86362d7e05efa9)
-2. 🚀 Committed to main in [AjayKMehta/lefthook](https://github.com/AjayKMehta/lefthook/commit/053281d376d883d6acf3b6db96c5d4f0e5b5b4ea)
-3. 🚀 Committed to main in [AjayKMehta/quarto-blog](https://github.com/AjayKMehta/quarto-blog/commit/3ea3ba829d8a4aab41e400cebacbfd058535191d)
-4. 🚀 Committed to main in [AjayKMehta/quarto-blog](https://github.com/AjayKMehta/quarto-blog/commit/312376dad7968b3fb18df9447414767ff23d7465)
-5. 🚀 Committed to master in [AjayKMehta/PowerShellScripts](https://github.com/AjayKMehta/PowerShellScripts/commit/8a4542cf8b9541fd0311197a40f091ed4808022b)
-6. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/01682e3ba9534089fcba3000a02247b5cfe5ef1b)
-7. 🗣 Commented on issue #12258 in [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell/issues/12258#issuecomment-4598202185)
-8. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/2494ee0602de08d5472d5567ffa6d23e342e67a2)
-9. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/801d1dd80ab37dca59f256d3585eb7aeaa82ffd8)
-10. 🚀 Committed to main in [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/3ce62b94d50bc2521052e7faa01ac9831259f9f5)
-11. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/d9afc58d161f18e9d51d75e02ceed5f0b2996bb3)
-12. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/f82d345afe1d6fe443b6c08270f547d030aeb063)
-13. 🚀 Committed to master in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery/commit/d3a1c955a03c496a8969e8e759d6d02a048e2d00)
-14. 🔎 Created PR #24 in [AjayKMehta/blog](https://github.com/AjayKMehta/blog/pull/24#pullrequestreview-4373104030)
-15. 🔎 Created PR #24 in [AjayKMehta/blog](https://github.com/AjayKMehta/blog/pull/24#pullrequestreview-4373102168)
+1. 🚀 Committed to main in [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles/commit/f5cdc720790cbc0b1022f78b3ee1c4a3825334a3)
+2. 🚀 Committed to main in [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles/commit/83a4e3631742a0c2d000274065f71a9aeee4bc1e)
+3. 🚀 Committed to main in [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles/commit/6151b7b7658bbedcfffba98471d55b8833bfd62e)
+4. ❌ Closed PR #25 in [AjayKMehta/blog](https://github.com/AjayKMehta/blog/pull/25)
+5. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/c92b9af67384ebd1258d4fc9d66edfb44a2b3fba)
+6. 🚀 Committed to main in [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/9a0769aac021ec82a5fab3d9fb86362d7e05efa9)
+7. 🚀 Committed to main in [AjayKMehta/lefthook](https://github.com/AjayKMehta/lefthook/commit/053281d376d883d6acf3b6db96c5d4f0e5b5b4ea)
+8. 🚀 Committed to main in [AjayKMehta/quarto-blog](https://github.com/AjayKMehta/quarto-blog/commit/3ea3ba829d8a4aab41e400cebacbfd058535191d)
+9. 🚀 Committed to main in [AjayKMehta/quarto-blog](https://github.com/AjayKMehta/quarto-blog/commit/312376dad7968b3fb18df9447414767ff23d7465)
+10. 🚀 Committed to master in [AjayKMehta/PowerShellScripts](https://github.com/AjayKMehta/PowerShellScripts/commit/8a4542cf8b9541fd0311197a40f091ed4808022b)
+11. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/01682e3ba9534089fcba3000a02247b5cfe5ef1b)
+12. 🗣 Commented on issue #12258 in [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell/issues/12258#issuecomment-4598202185)
+13. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/2494ee0602de08d5472d5567ffa6d23e342e67a2)
+14. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/801d1dd80ab37dca59f256d3585eb7aeaa82ffd8)
+15. 🚀 Committed to main in [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/3ce62b94d50bc2521052e7faa01ac9831259f9f5)
 <!--END_SECTION:activity-->
 
 > [!NOTE]
