@@ -32,12 +32,12 @@ jobs:
         if: env.CHECK_PERMISSIONS == '1'
       - id: checkout-repo
         name: Checkout repo
-        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
         with:
           persist-credentials: true
       - id: generate-stats-default
         name: Generate default stats
-        uses: stats-organization/github-readme-stats-action@8614f3a61601854731381d853f8566867754a5ca # v2.0.0
+        uses: stats-organization/github-readme-stats-action@f9d8133845f40d659a754f78b8484983ba766448 # v2.0.1
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&include_all_commits=true&number_format=long&hide_title=true&hide_rank=true&show=discussions_started,prs_merged&hide_border=true&theme=default
@@ -45,7 +45,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
       - id: generate-stats-dark
         name: Generate dark stats
-        uses: stats-organization/github-readme-stats-action@8614f3a61601854731381d853f8566867754a5ca # v2.0.0
+        uses: stats-organization/github-readme-stats-action@f9d8133845f40d659a754f78b8484983ba766448 # v2.0.1
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&include_all_commits=true&number_format=long&hide_title=true&hide_rank=true&show=discussions_started,prs_merged&hide_border=true&theme=dark
@@ -53,7 +53,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
       - id: generate-langs-default
         name: Generate default langs
-        uses: stats-organization/github-readme-stats-action@8614f3a61601854731381d853f8566867754a5ca # v2.0.0
+        uses: stats-organization/github-readme-stats-action@f9d8133845f40d659a754f78b8484983ba766448 # v2.0.1
         with:
           options: username=${{ github.repository_owner }}&layout=donut&langs_count=20&hide_border=true&disable_animations=true&theme=default
           path: img/langs-default.svg
@@ -61,7 +61,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
       - id: generate-langs-dark
         name: Generate dark langs
-        uses: stats-organization/github-readme-stats-action@8614f3a61601854731381d853f8566867754a5ca # v2.0.0
+        uses: stats-organization/github-readme-stats-action@f9d8133845f40d659a754f78b8484983ba766448 # v2.0.1
         with:
           options: username=${{ github.repository_owner }}&layout=donut&langs_count=20&hide_border=true&disable_animations=true&theme=dark
           path: img/langs-dark.svg
