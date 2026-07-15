@@ -133,7 +133,7 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#000080" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Lua 11.25%
+        Lua 11.26%
       </text>
     </g>
   </g><g transform="translate(0, 64)">
@@ -207,8 +207,8 @@
        <g class="stagger" style="animation-delay: 600ms">
         <path
           data-testid="lang-donut"
-          size="76.28"
-          d="M 60.18316531806729 112.11417432577434 A 56.66666666666667 56.66666666666667 0 1 0 116.66666666666667 60"
+          size="76.27"
+          d="M 60.18031605235267 112.1496648526423 A 56.66666666666667 56.66666666666667 0 1 0 116.66666666666667 60"
           stroke="#012456"
           fill="none"
           stroke-width="12">
@@ -218,8 +218,8 @@
        <g class="stagger" style="animation-delay: 700ms">
         <path
           data-testid="lang-donut"
-          size="11.25"
-          d="M 76.67288254904494 76.52182461860053 A 56.66666666666667 56.66666666666667 0 0 0 60.18316531806729 112.11417432577434"
+          size="11.26"
+          d="M 76.67288254904494 76.52182461860053 A 56.66666666666667 56.66666666666667 0 0 0 60.18031605235267 112.1496648526423"
           stroke="#000080"
           fill="none"
           stroke-width="12">
