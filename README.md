@@ -57,21 +57,21 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. ✨ Created a new branch main in [AjayKMehta/Workflows](https://github.com/AjayKMehta/Workflows/tree/main)
-2. 🔎 Created PR #510 in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery/pull/510#pullrequestreview-4705064996)
-3. 🔎 Created PR #31 in [AjayKMehta/template-dotnet](https://github.com/AjayKMehta/template-dotnet/pull/31#pullrequestreview-4705049257)
-4. 🚀 Committed to main in [AjayKMehta/template-dotnet](https://github.com/AjayKMehta/template-dotnet/commit/d41b105edb2366bbb9720d77bd1ee5e44f798a60)
-5. 🚀 Committed to master in [AjayKMehta/PowerShellScripts](https://github.com/AjayKMehta/PowerShellScripts/commit/a3ae7af744158f6077472b12b944184515d989cb)
-6. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/327d917f4e4683ab7415e2042789563efa90f3f5)
-7. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/06ce4f7f3df1722c8f0b3952e9c7ed5496a96c2f)
-8. 🚀 Committed to main in [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/f513ef365ff4171233ef25482fe161569fdba6ea)
-9. 🚀 Committed to main in [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/15635e61196eb8b054448ed7ab8e5c0eb75b4ac7)
-10. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/7f7e793f06c924ec0a86191d7d0701545698f15a)
-11. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/c665f48519bcd722f44a898a01f1addb9135afc5)
-12. 🚀 Committed to master in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery/commit/2206ecb7a9469cd59816f5005824f7930b5b41e4)
-13. 🚀 Committed to master in [AjayKMehta/AjayKMehta](https://github.com/AjayKMehta/AjayKMehta/commit/4947ff3511235964381936a7528e4e19be90811e)
-14. 🚀 Committed to master in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder/commit/d18e760b0c028814c31f8a76501a1ccaa7662c8d)
-15. 🚀 Committed to master in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder/commit/f0ae5ffc2112d05a7ac37133073e8bd3e50cac25)
+1. 🚀 Committed to main in [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles/commit/8373beb563a2e316412d735bffda01f942f41e21)
+2. 🚀 Committed to main in [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles/commit/69100d42f4149fb8897bbcb8a45d9c6bb1d412f7)
+3. 🚀 Committed to master in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery/commit/f18951edf0583a2f43efeff923d95b21ba08a92e)
+4. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/90081359b9692808f687e002e920e9850c38b92e)
+5. 🚀 Committed to master in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery/commit/71d2b43d5b12ccf879641a8f58f65b021dd7b095)
+6. ✔️ Merged PR #512 in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery/pull/512)
+7. 🚀 Committed to codeql-workflow-improvements in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery/commit/bc5aef01cf6a5e3178d4ad8810d05a5ec2803042)
+8. 🔀 Opened PR #512 in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery/pull/512)
+9. ✨ Created a new branch codeql-workflow-improvements in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery/tree/codeql-workflow-improvements)
+10. 🔎 Created PR #510 in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery/pull/510#pullrequestreview-4705064996)
+11. 🔎 Created PR #31 in [AjayKMehta/template-dotnet](https://github.com/AjayKMehta/template-dotnet/pull/31#pullrequestreview-4705049257)
+12. 🚀 Committed to main in [AjayKMehta/template-dotnet](https://github.com/AjayKMehta/template-dotnet/commit/d41b105edb2366bbb9720d77bd1ee5e44f798a60)
+13. 🚀 Committed to master in [AjayKMehta/PowerShellScripts](https://github.com/AjayKMehta/PowerShellScripts/commit/a3ae7af744158f6077472b12b944184515d989cb)
+14. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/327d917f4e4683ab7415e2042789563efa90f3f5)
+15. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/06ce4f7f3df1722c8f0b3952e9c7ed5496a96c2f)
 <!--END_SECTION:activity-->
 
 > [!NOTE]
