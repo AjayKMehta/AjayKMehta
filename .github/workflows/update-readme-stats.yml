@@ -37,7 +37,7 @@ jobs:
           persist-credentials: true
       - id: generate-stats-default
         name: Generate default stats
-        uses: stats-organization/github-readme-stats-action@f9d8133845f40d659a754f78b8484983ba766448 # v2.0.1
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&include_all_commits=true&number_format=long&hide_title=true&hide_rank=true&show=discussions_started,prs_merged&hide_border=true&theme=default
@@ -45,7 +45,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
       - id: generate-stats-dark
         name: Generate dark stats
-        uses: stats-organization/github-readme-stats-action@f9d8133845f40d659a754f78b8484983ba766448 # v2.0.1
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&include_all_commits=true&number_format=long&hide_title=true&hide_rank=true&show=discussions_started,prs_merged&hide_border=true&theme=dark
@@ -53,7 +53,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
       - id: generate-langs-default
         name: Generate default langs
-        uses: stats-organization/github-readme-stats-action@f9d8133845f40d659a754f78b8484983ba766448 # v2.0.1
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
         with:
           options: username=${{ github.repository_owner }}&layout=donut&langs_count=20&hide_border=true&disable_animations=true&theme=default
           path: img/langs-default.svg
@@ -61,7 +61,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
       - id: generate-langs-dark
         name: Generate dark langs
-        uses: stats-organization/github-readme-stats-action@f9d8133845f40d659a754f78b8484983ba766448 # v2.0.1
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
         with:
           options: username=${{ github.repository_owner }}&layout=donut&langs_count=20&hide_border=true&disable_animations=true&theme=dark
           path: img/langs-dark.svg
