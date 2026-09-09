@@ -57,21 +57,21 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Committed to main in [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles/commit/82d3abec5981ca025cc188304ff93e79e61a3d80)
-2. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/66afdba2ee7b6c7aba0077fd1ddcce010101bc14)
-3. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/03c9ff878b292a3514ce3823e81e7d0e7505295b)
-4. 🚀 Committed to main in [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles/commit/74bd9184f406cdda9af3367812b9c91687219955)
-5. 🚀 Committed to main in [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/9797115787b0f692545a205edb4b2058ab4f7f79)
-6. 🚀 Committed to master in [AjayKMehta/PowerShellScripts](https://github.com/AjayKMehta/PowerShellScripts/commit/6f13cbe48ce6c6422b3f04aac7990b51fed8617c)
-7. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/862c065e82715fb8c4583f97266e75bfe6892e62)
-8. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/f4e8e62882059af14bd7c1ae183b10eace19dc53)
-9. 🚀 Committed to main in [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles/commit/df0fbe80b8cd10440bdeb76e239d8ec39c72cbd1)
-10. 🚀 Committed to master in [AjayKMehta/PowerShellScripts](https://github.com/AjayKMehta/PowerShellScripts/commit/42c2993f5447d72a15655656f2bc353bdde79168)
-11. 🚀 Committed to main in [AjayKMehta/template-dotnet](https://github.com/AjayKMehta/template-dotnet/commit/a6ae5d647b3f921fc89fb47c898a708ec233ad56)
-12. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/f2309890c4c64b2ec4567a917110ed0c8dba5bed)
-13. 🚀 Committed to master in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder/commit/3e76b8f79ed13eba13bf959a7c191c6b3262139c)
-14. 🚀 Committed to master in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery/commit/9e1065b1bb408f9fbac0d25efeba9e324b535970)
-15. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/cc761d5bb5efdda0a22ea7052c20720442359ffb)
+1. 🚀 Committed to main in [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles/commit/d27dcfb9ef7c6f4ecb7792afa79b6042136f7571)
+2. 🚀 Committed to main in [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles/commit/82d3abec5981ca025cc188304ff93e79e61a3d80)
+3. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/66afdba2ee7b6c7aba0077fd1ddcce010101bc14)
+4. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/03c9ff878b292a3514ce3823e81e7d0e7505295b)
+5. 🚀 Committed to main in [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles/commit/74bd9184f406cdda9af3367812b9c91687219955)
+6. 🚀 Committed to main in [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/9797115787b0f692545a205edb4b2058ab4f7f79)
+7. 🚀 Committed to master in [AjayKMehta/PowerShellScripts](https://github.com/AjayKMehta/PowerShellScripts/commit/6f13cbe48ce6c6422b3f04aac7990b51fed8617c)
+8. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/862c065e82715fb8c4583f97266e75bfe6892e62)
+9. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/f4e8e62882059af14bd7c1ae183b10eace19dc53)
+10. 🚀 Committed to main in [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles/commit/df0fbe80b8cd10440bdeb76e239d8ec39c72cbd1)
+11. 🚀 Committed to master in [AjayKMehta/PowerShellScripts](https://github.com/AjayKMehta/PowerShellScripts/commit/42c2993f5447d72a15655656f2bc353bdde79168)
+12. 🚀 Committed to main in [AjayKMehta/template-dotnet](https://github.com/AjayKMehta/template-dotnet/commit/a6ae5d647b3f921fc89fb47c898a708ec233ad56)
+13. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/f2309890c4c64b2ec4567a917110ed0c8dba5bed)
+14. 🚀 Committed to master in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder/commit/3e76b8f79ed13eba13bf959a7c191c6b3262139c)
+15. 🚀 Committed to master in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery/commit/9e1065b1bb408f9fbac0d25efeba9e324b535970)
 <!--END_SECTION:activity-->
 
 > [!NOTE]
