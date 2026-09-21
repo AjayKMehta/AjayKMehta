@@ -57,21 +57,21 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/1bba7a3940c79fee77bf43cbb0e9a56508d2050c)
-2. 🚀 Committed to master in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery/commit/a91171520cc795ce814caa97739ecc1f26a9ea6e)
-3. 🚀 Committed to master in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder/commit/7470f2ab301489638caee14587395d0e9396a66c)
-4. 🚀 Committed to main in [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/8024a6ecf97f5ecb916c05084b87e8a3cd1c1cd8)
-5. 🚀 Committed to main in [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles/commit/7bc3d5ce4c69d832b336138eca7d6349a8987c3c)
-6. 🚀 Committed to main in [AjayKMehta/template-dotnet](https://github.com/AjayKMehta/template-dotnet/commit/81b44d9a0ccdbf2df2f20b526cd18ee48b3798ca)
-7. 🚀 Committed to main in [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/61ee36ac5a644d9f1f4b058d4aaa280364278be2)
-8. 🚀 Committed to master in [AjayKMehta/AjayKMehta](https://github.com/AjayKMehta/AjayKMehta/commit/40a1674cdc8b00be2d1253045bde37720363d19a)
-9. 🚀 Committed to main in [AjayKMehta/lefthook](https://github.com/AjayKMehta/lefthook/commit/e9c6e55575db4fd163991ceafa357081df3fc3c4)
-10. 🚀 Committed to master in [AjayKMehta/AjayKMehta](https://github.com/AjayKMehta/AjayKMehta/commit/5a332c9042bb88f630ea32574ce56e3faa48856f)
-11. 🚀 Committed to main in [AjayKMehta/lefthook](https://github.com/AjayKMehta/lefthook/commit/33ab764b5c866d5aca3698dca71f295ff784aab1)
-12. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/62ae7872dc9fcf05a885d08bfa930468b672466b)
-13. 🚀 Committed to main in [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/f1935bc9b213d62c03934bfd8a93986d0d1217a7)
-14. 🚀 Committed to main in [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/4fceaa569945525ca001484107d2e78b7cf842a7)
-15. 🚀 Committed to main in [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles/commit/d27dcfb9ef7c6f4ecb7792afa79b6042136f7571)
+1. 🚀 Committed to main in [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles/commit/e5efd8f1c9bf55e3b01782eccee4c66ab0c64ca7)
+2. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/1bba7a3940c79fee77bf43cbb0e9a56508d2050c)
+3. 🚀 Committed to master in [AjayKMehta/Dappery](https://github.com/AjayKMehta/Dappery/commit/a91171520cc795ce814caa97739ecc1f26a9ea6e)
+4. 🚀 Committed to master in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder/commit/7470f2ab301489638caee14587395d0e9396a66c)
+5. 🚀 Committed to main in [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/8024a6ecf97f5ecb916c05084b87e8a3cd1c1cd8)
+6. 🚀 Committed to main in [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles/commit/7bc3d5ce4c69d832b336138eca7d6349a8987c3c)
+7. 🚀 Committed to main in [AjayKMehta/template-dotnet](https://github.com/AjayKMehta/template-dotnet/commit/81b44d9a0ccdbf2df2f20b526cd18ee48b3798ca)
+8. 🚀 Committed to main in [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/61ee36ac5a644d9f1f4b058d4aaa280364278be2)
+9. 🚀 Committed to master in [AjayKMehta/AjayKMehta](https://github.com/AjayKMehta/AjayKMehta/commit/40a1674cdc8b00be2d1253045bde37720363d19a)
+10. 🚀 Committed to main in [AjayKMehta/lefthook](https://github.com/AjayKMehta/lefthook/commit/e9c6e55575db4fd163991ceafa357081df3fc3c4)
+11. 🚀 Committed to master in [AjayKMehta/AjayKMehta](https://github.com/AjayKMehta/AjayKMehta/commit/5a332c9042bb88f630ea32574ce56e3faa48856f)
+12. 🚀 Committed to main in [AjayKMehta/lefthook](https://github.com/AjayKMehta/lefthook/commit/33ab764b5c866d5aca3698dca71f295ff784aab1)
+13. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/62ae7872dc9fcf05a885d08bfa930468b672466b)
+14. 🚀 Committed to main in [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/f1935bc9b213d62c03934bfd8a93986d0d1217a7)
+15. 🚀 Committed to main in [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/4fceaa569945525ca001484107d2e78b7cf842a7)
 <!--END_SECTION:activity-->
 
 > [!NOTE]
