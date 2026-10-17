@@ -57,21 +57,21 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Committed to master in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder/commit/29f5c69e728e030e68ecd9bac746fc75eb774cf7)
-2. 🚀 Committed to main in [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles/commit/6231dac07faf78d41154b889ee4f45006e3b210a)
-3. 🚀 Committed to main in [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/f19aaa8e8a1b356df1e19920362181e06d2c6134)
-4. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/6b4338497e08a8651df02403c4b66bbfa5337965)
-5. 🚀 Committed to main in [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/b5d9e6d90e9973d8b2f2ff5d70b0d7b0c8f4232f)
-6. 🚀 Committed to main in [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles/commit/30669f35341c97fc4ed0a3b7a1dee32c3c73d212)
-7. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/4a7deb0f94cfc7428a8fccf74db8debf7b07d9c0)
-8. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/4c4a77b22b5c83193a32c5e27fd4a6cf2e7e9961)
-9. 🚀 Committed to main in [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/4580a0f01b6347f2a96c46cb2461e8fba729cc85)
-10. 🚀 Committed to master in [AjayKMehta/builderbuilder](https://github.com/AjayKMehta/builderbuilder/commit/ca98c7f103405b1d6d12a4e7e2ccc799b264b68e)
-11. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/ee92e3769dcd12955a3986cff783733a88603ec2)
-12. 🚀 Committed to main in [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/c853bd6bf847d94c73ebc60e0c6821838b5fcb96)
-13. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/519179fa5fa302a5205a826dd41bd48cf233e070)
-14. 🚀 Committed to main in [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles/commit/3bf35629d8f1d395a4f47b0d2962f2ceccb83926)
-15. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/03bb8146d99fbfb03b9884cb66ecf2498df5b897)
+1. 🚀 Committed to main in [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/0c88a14f7d20f7c807b38c3f4be8483445e26564)
+2. 🚀 Committed to main in [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles/commit/c8bd7584c2c6070ca5f3268de5bbd54b4c2c1776)
+3. 🚀 Committed to main in [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles/commit/2e39e3dc6dde6bc97ec5cc769b025db0cd205e2c)
+4. 🚀 Committed to main in [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/0752e8c53cb6e8001ad14712d377868dbc545115)
+5. 🚀 Committed to main in [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles/commit/6231dac07faf78d41154b889ee4f45006e3b210a)
+6. 🚀 Committed to main in [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/f19aaa8e8a1b356df1e19920362181e06d2c6134)
+7. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/6b4338497e08a8651df02403c4b66bbfa5337965)
+8. 🚀 Committed to main in [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/b5d9e6d90e9973d8b2f2ff5d70b0d7b0c8f4232f)
+9. 🚀 Committed to main in [AjayKMehta/dotfiles](https://github.com/AjayKMehta/dotfiles/commit/30669f35341c97fc4ed0a3b7a1dee32c3c73d212)
+10. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/4a7deb0f94cfc7428a8fccf74db8debf7b07d9c0)
+11. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/4c4a77b22b5c83193a32c5e27fd4a6cf2e7e9961)
+12. 🚀 Committed to main in [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/4580a0f01b6347f2a96c46cb2461e8fba729cc85)
+13. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/ee92e3769dcd12955a3986cff783733a88603ec2)
+14. 🚀 Committed to main in [AjayKMehta/setup-machine](https://github.com/AjayKMehta/setup-machine/commit/c853bd6bf847d94c73ebc60e0c6821838b5fcb96)
+15. 🚀 Committed to main in [AjayKMehta/WSL](https://github.com/AjayKMehta/WSL/commit/519179fa5fa302a5205a826dd41bd48cf233e070)
 <!--END_SECTION:activity-->
 
 > [!NOTE]
