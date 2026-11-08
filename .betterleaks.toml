@@ -17,3 +17,7 @@ r"""(?:^|/).*\.html$""",
 
 [extend]
 useDefault = true
+
+[allowlist]
+description = "Ignore specific bad historical commits entirely"
+commits = ["3d3c42e5aac5ba805825da76410c181273ba90b1"]
